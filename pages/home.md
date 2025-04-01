@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: "/"
-title: "Curate is a premium portfolio for <strong>Jekyll.</strong>"
-description: "Showcase your projects, work or case studies in style with this markdown powered portfolio theme for Jekyll."
+title: "Dirk-Jan Hoek"
+description: "Senior UX designer with extensive experience in development. Sharp eye for detail and creative in finding solutions. Excellent verbal and written skills."
 meta_description: "Jekyll Curate is a premium Jekyll blog theme"
 meta_title: Jekyll Curate - Premium Portfolio Theme
 subscribe: false
@@ -14,7 +14,7 @@ projects:
   sort: date # date | weight
   view_more_button_text: "" # "More Projects"
   view_more_button_link: "" # "/projects"
-  columns: 2 # 1 | 2 | 3 | 4
+  columns: 3 # 1 | 2 | 3 | 4
 
 posts:
   heading: "Recent Posts"
