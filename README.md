@@ -23,7 +23,7 @@ Extract the theme .zip file to your local computer. Navigate to the project root
 
 Run `bundle install` to install gems.
 
-Then run `bundle exec jekyll serve` to start the Jekyll local development server.
+Then run `bundle exec jekyll serve --config _config.yml,_config_dev.yml` to start the Jekyll local development server.
 
 To build the Jekyll site run `bundle exec jekyll build`
 

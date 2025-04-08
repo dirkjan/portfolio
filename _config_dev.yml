@@ -1,0 +1,3 @@
+# _config_dev.yml
+baseurl: ""
+url: "http://localhost:4000" # Voor lokale ontwikkeling
