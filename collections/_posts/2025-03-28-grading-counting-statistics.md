@@ -3,7 +3,7 @@ layout: post
 title: "BuyBay: employee statistics"
 date: 2025-03-28
 authors: ["Dirk-Jan Hoek"]
-categories: []
+categories: ["Front end development", "Visual design"]
 description: Performance statistics with an innovative and productive layout.
 thumbnail: "/assets/images/gen/blog/blog-5-thumbnail.png"
 image: "/assets/images/gen/content/blog-5/team.png"

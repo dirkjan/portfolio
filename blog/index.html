@@ -24,7 +24,7 @@ title: "Blog"
           <div class="row">
             {% assign posts = site.posts %}
             {% if paginator %}{% assign posts = paginator.posts %}{% endif %}
-            
+
               {% if paginator %}
                 <div class="col-12">
                   {% include framework/paginator-count.html %}
@@ -36,7 +36,7 @@ title: "Blog"
                   {% include theme/cards/card-post.html
                     date=post.date
                     title=post.title
-                    description=post.description 
+                    description=post.description
                     url=post.url
                     thumbnail=post.thumbnail
                     style="row"

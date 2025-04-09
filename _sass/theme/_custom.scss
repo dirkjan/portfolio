@@ -1,15 +1,21 @@
 .heading .heading-heading h1 {
-    font-size: 86px;
-    line-height: 1;
-    width: 80%;
-    letter-spacing: -2px;
-    font-weight: 700;
-    strong {
-        text-decoration-color: var(--color-base-bg-3);
-    }
+  font-size: 86px;
+  line-height: 1;
+  width: 80%;
+  letter-spacing: -2px;
+  font-weight: 700;
+  strong {
+      text-decoration-color: var(--color-base-bg-3);
+  }
 }
 
 img {
   border: 3px solid #FFFAE4;
   aspect-ratio: unset !important;
+}
+
+.grid-header.grid-header-align-left h2 {
+  font-size: 1rem;
+  font-weight: 400 !important;
+  color: #AAA;
 }

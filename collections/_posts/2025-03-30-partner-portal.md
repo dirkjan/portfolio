@@ -3,7 +3,7 @@ layout: post
 title: "BuyBay: software to announce returns"
 date: 2025-03-30
 authors: ["Mike Vance"]
-categories: ["Ruby on Rails", "Front end development", "Wireframes", "Visual design"]
+categories: ["Wireframes", "Ruby on Rails", "Front end development", "Wireframes", "Visual design"]
 description: User friendly website for webshops to announce returns to the BuyBay warehouse.
 thumbnail: "/assets/images/gen/blog/blog-3-thumbnail.png"
 image: "/assets/images/gen/blog/blog-3-large.png"

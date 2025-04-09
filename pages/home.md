@@ -8,7 +8,7 @@ meta_title: Portfolio Dirk-Jan Hoek
 subscribe: false
 
 projects:
-  heading: "" # "Projects"
+  heading: "Cases"
   sub_heading: "" # "A collection of our recent work"
   limit: 6
   sort: date # date | weight
