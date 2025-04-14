@@ -2,7 +2,7 @@
 layout: home
 permalink: "/"
 title: "Dirk-Jan Hoek"
-description: "Senior UX designer with extensive experience in development. Sharp eye for detail and creative in finding solutions. Excellent verbal and written skills."
+description: "Senior UX designer and developer. Sharp eye for detail and creative in finding solutions. Excellent verbal and written skills."
 meta_description: "Dirk-Jan Hoek is an experienced designer and developer."
 meta_title: Portfolio Dirk-Jan Hoek
 subscribe: false
