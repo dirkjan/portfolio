@@ -88,5 +88,10 @@ I eventually redesigned them like this:
 
 # Result
 
+> "The redesign prepared our software to be showcased in client demos and be implemented as SaaS, opening up a completely new proposition for BuyBay."
+
 The test did not bring big problems to light. When asked, 50% of the test population considered the new design better or much better (they are very conservative, so that is high).
-It turned out the visual nature of the user interface was not only helpful to new users, it was also eagerly used in demos to potential SaaS customers, because ‘it looks so good’.
+
+It turned out the visual nature of the user interface was not only helpful to new users, it was also eagerly used in demos to potential SaaS customers, because "it looks so good".
+
+Tim Mooren, BuyBay's COO at the time, said: "Dirk-Jan redesigned the UI and look and feel of our new grading software. It allowed our grading center to increase its quality, by preventing mistakes and removing ambiguity. Also, it prepared our software to be showcased in client demos and be implemented as SaaS, opening up a completely new proposition for BuyBay."
