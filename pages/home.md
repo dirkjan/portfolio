@@ -10,7 +10,7 @@ subscribe: false
 projects:
   heading: "Cases"
   sub_heading: "" # "A collection of our recent work"
-  limit: 6
+  limit: 9
   sort: date # date | weight
   view_more_button_text: "" # "More Projects"
   view_more_button_link: "" # "/projects"
