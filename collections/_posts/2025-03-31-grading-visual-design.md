@@ -28,6 +28,8 @@ While the desktop layout was functional, it was not optimized for the larger scr
 - Creation of a test plan and user testing
 - Front end development
 
+> "The redesign prepared our software to be showcased in client demos and be implemented as SaaS, opening up a completely new proposition for BuyBay."
+
 # Analysis
 
 Here are two examples of the old grading screens:
@@ -87,8 +89,6 @@ I eventually redesigned them like this:
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-2/icon-redesign.png" title="Icons redesign" %}
 
 # Result
-
-> "The redesign prepared our software to be showcased in client demos and be implemented as SaaS, opening up a completely new proposition for BuyBay."
 
 The test did not bring big problems to light. When asked, 50% of the test population considered the new design better or much better (they are very conservative, so that is high).
 

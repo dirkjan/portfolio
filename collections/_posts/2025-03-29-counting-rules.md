@@ -12,6 +12,7 @@ weight: 1
 
 
 # Introduction
+
 BuyBay takes returned products from webshops (called ‘owners’ from now on), assesses and improves them, and sells them on online sales channels. When returns arrive in the BuyBay warehouse, employees (‘counters’) scan these products to verify if they are the same as the webshop announced to BuyBay. After confirming a product, it has to go to a certain location. For example products with data go to a department where the data is wiped.
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-4/old-rules.png" title="List of counting rules" %}
@@ -31,10 +32,12 @@ When a new owner joins BuyBay, it often needs new or updated rules. It is hard t
 - There is no preview of how the rules will work out for a new webshop.
 
 ### My role
+
 - Wireframe designs
 - Visual designs
 - Implementation of the hardest part in Ruby on Rails
 
+> "The new counting rules have improved the setup of our flows. No longer do we encounter questions about how the logic works and how we can ensure that one rule takes precedence over another.”
 
 # Concepts
 
@@ -85,6 +88,7 @@ I decided the last option was the simplest and created a proof of concept. This 
 - I created a controller that generates all the rows with the `RowsBuilder` and converts them into presenters. These are handed over to the view.
 
 # Result
+
 At the time of writing, the new rules have just gone into production. I asked Rick Gerrits, BuyBay operations manager, if he is satisfied. His reply: “The new counting rules have improved the setup of our flows. No longer do we encounter questions about how the logic works and how we can ensure that one rule takes precedence over another. With the new setup, you can easily drag the rule and determine the desired priority as a user. The fact that this can be done per partner is ideal, as it allows us to apply different logics to meet the partner's needs.”
 
 Here is a screenshot from the production website, from the owner with the most complex routing. As you can see it is pretty close to the design (except for an annoying glitch that I would love to improve: the first vertical green line is too close to its left neighbour):
