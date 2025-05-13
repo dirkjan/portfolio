@@ -1,16 +1,20 @@
 ---
 layout: post
-title: "Laika: online games"
+title: "Various online games"
 date: 2025-03-26
 categories: ["Games", "Concept development"]
-description: "As a founder of Laika, I designed and developed numerous online games."
+description: "As a founder of a website and game agency, I designed and developed numerous online games."
 thumbnail: "/assets/images/gen/blog/blog-7-thumbnail.png"
 image: "/assets/images/gen/content/blog-7/police.jpg"
 ---
 
 # Introduction
 
-From 2000 to 2012, I co-owned a web design and game development agency that created dozens of games for mostly non-profit clients such as Samsam, NCRV, and WWF. The games were often educational or aimed at raising awareness for specific themes. I came up with many of the game concepts and developed almost all the games. This document contains a few examples.
+From 2000 to 2012, I co-owned a web design and game development agency called Laika that created dozens of games for mostly non-profit clients such as Samsam, NCRV, and WWF. The games were often educational or aimed at raising awareness of specific themes.
+
+The Laika team also created a puzzle website called 'Vitamine P,' which was eventually sold to the largest Dutch newspaper.
+
+I came up with many of the game concepts for Laika's clients as well as for Vitamine P and developed almost all the games. This document contains a few examples.
 
 ### My Role
 
@@ -18,6 +22,14 @@ From 2000 to 2012, I co-owned a web design and game development agency that crea
 - Development of single-player games in Flash ActionScript (all of the games listed here, except the CNV Application game)
 - Illustrations (most of the games listed here)
 - Animations (all of the games listed here)
+
+# Vitamine P: a puzzle a day keeps the doctor away
+
+Vitamine P, our puzzle/braintraining website, presented five new puzzles each day in five categories. It was aimed at the elderly, who at the time of this project were not very computer savvy yet. Therefore, we paid a lot of attention to the UI, which was very straight forward and consistent across all puzzles. Additionally, each puzzle contained animated help instructions.
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/384178092?h=ab779a1a6a" width="820" height="540" frameborder="0" allowfullscreen></iframe>
+
+The website kept track of your personal PQ, or puzzle performance. Most of the puzzles were generated in advance and were identical for all players, allowing users to chat about the puzzles with each other. We sold Vitamine P to Keesing, part of De Telegraaf, the largest Dutch newspaper.
 
 # NCRV: games for a children's tv-show
 
