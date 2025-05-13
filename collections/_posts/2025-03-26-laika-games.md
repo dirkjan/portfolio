@@ -73,7 +73,7 @@ The municipality of Utrecht intended to create bus lanes in the city that would 
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-7/bus-upsampled.jpg" width="100" title="Bus game: pick up the factory workers before they go by car" %}
 
-The game may not look fancy, but I am proud of how the gameplay aligns with the municipality's message. In the game, citizens (represented as small black dots in the image) leave their houses and walk to the nearest bus station.  As the player it is your task to pick them up with the bus in time and bring them to their work, the factory on the right. If you do not pick them up in time, the walk back to their house and go by car. This will eventually congest the city and make your task as bus driver even harder. If you crash onto a car, you loose.
+The game may not look fancy, but I am proud of how the gameplay aligns with the municipality's message. In the game, citizens (represented as small black dots in the image) leave their houses and walk to the nearest bus station.  As the player it is your task to pick them up with the bus in time and bring them to their work, the factory on the right. If you do not pick them up in time, they walk back to their house and go by car. This will eventually congest the city and make your task as bus driver even harder. If you crash onto a car, you loose.
 
 # CNV: Application game
 
@@ -85,7 +85,7 @@ The CNV union asked us to create a game to teach youth about applying for a job.
 - Getting jobs
 - Adjusting their CV
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-7/baanscoren-title-screen.png" title="Title screen." %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-7/baanscoren-title-screen.png" title="Title screen" %}
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-7/baanscoren-vacancies.jpeg" title="Read the paper to find vacancies. Some were a bit absurd; for example, one could apply to be the pope." %}
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-7/baanscoren-profile.jpeg" title="Edit your avatar. Don't forget to update it before you to an interview  or you can lose the job based on your appearance." %}
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-7/baanscoren-interview.jpeg" title="Job interview. During interviews, the game character will sometimes lose it's posture. Click on it to straighten it up again." %}
