@@ -7,7 +7,7 @@ categories: ["Visual design", "Illustration", "Front end development", "Ruby on 
 client: BuyBay
 description: Optimization to make use of larger screens and to improve touch operation.
 thumbnail: "/assets/images/gen/blog/blog-2-thumbnail.png"
-image: "/assets/images/gen/blog/blog-2-large.png"
+image: "/assets/images/gen/content/blog-2/visual-design/grade.png"
 comments: false
 subscribe: true
 ---

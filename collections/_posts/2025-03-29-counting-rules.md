@@ -6,7 +6,7 @@ authors: ["Dirk-Jan Hoek"]
 categories: ["Wireframes", "Visual design", "Front end development", "Ruby on Rails"]
 description: Webshop returns are routed in the BuyBay warehouse based on rules. I enhanced this system for better predictability and adaptability.
 thumbnail: "/assets/images/gen/blog/blog-4-thumbnail.png"
-image: "/assets/images/gen/blog/blog-4-large.png"
+image: "/assets/images/gen/content/blog-4/visual-design/preview.png"
 weight: 1
 ---
 
