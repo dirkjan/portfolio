@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MyDailyLifestyle: task list redesign"
+title: "MyDailyLifestyle: task list gamification"
 date: 2025-03-26
 categories: ["Gamification", "Concept development", "Visual design"]
 description: "Redesign of a task list to make it fun."

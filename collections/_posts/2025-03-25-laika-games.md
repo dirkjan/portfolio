@@ -73,7 +73,7 @@ The episode on the police featured a chase. While the gameplay is not particular
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-games/police.jpg" title="Police race: stay out of the hands of the police" %}
 
-# Free Work: Space marbles
+# Free work: Space marbles
 
 I created this game for fun. It features unique gameplay. You must move marbles through a maze to get them to a new position. The maze becomes more complex with each level. You cannot control the marbles directly, but you can tilt the maze to the left or right, which sets the marbles in motion.
 
