@@ -16,7 +16,7 @@ body_classes: page-home
   </div>
 </div>
 
-{% assign cards = site.posts %}
+{% assign cards = site.posts | where_exp: "post", "post.home != false" %}
 {% assign limit = page.projects.limit | default: 3 %}
 {% assign sort_by = page.projects.sort | default: 'date' %}
 {% assign columns =  page.projects.columns | default: 3 %}

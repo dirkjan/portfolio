@@ -3,7 +3,7 @@ layout: post
 title: "Various online games"
 date: 2025-03-25
 categories: ["Games", "Concept development"]
-description: "As a founder of a website and game agency, I designed and developed numerous online games."
+description: "As a founder of website and game agency Laika, I designed and developed numerous online games."
 thumbnail: "/assets/images/gen/blog/blog-games-thumbnail.png"
 image: "/assets/images/gen/content/blog-games/police.jpg"
 ---
@@ -27,7 +27,7 @@ I came up with many of the game concepts for Laika's clients as well as for Vita
 
 Vitamine P, our puzzle/braintraining website, presented five new puzzles each day in five categories. It was aimed at the elderly, who at the time of this project were not very computer savvy yet. Therefore, we paid a lot of attention to the UI, which was very straight forward and consistent across all puzzles. Additionally, each puzzle contained animated help instructions.
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/384178092?h=ab779a1a6a" width="820" height="540" frameborder="0" allowfullscreen></iframe>
+{% include framework/shortcodes/video.html src="https://player.vimeo.com/video/384178092?h=ab779a1a6a" aspect_ratio="66%" %}
 
 The website kept track of your personal PQ, or puzzle performance. Most of the puzzles were generated in advance and were identical for all players, allowing users to chat about the puzzles with each other. We sold Vitamine P to Keesing, part of De Telegraaf, the largest Dutch newspaper.
 
@@ -61,7 +61,7 @@ In the Soccer game, you have to kick a ball through a hole by hitting it at the 
 
 We later extended this game to a ‘Free Kick’ version for a commercial game site.
 
-<iframe width="820" height="570" src="https://www.youtube.com/embed/hDXaNI-PpvY?si=vqooXI7ECHOwSYsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include framework/shortcodes/video.html src="https://www.youtube.com/embed/hDXaNI-PpvY?si=vqooXI7ECHOwSYsQ" aspect_ratio="70%" %}
 
 The user first aims by moving a 3D arrow around with the mouse or a touchpad. In the second step, he/she/they can determine the speed. The speed intermittently increases and decreases, and when you click the mouse, the current speed is applied. To achieve the right speed, you must time your click well. Finally, you can add an effect (spin) to the ball by quickly moving the mouse left, right, up, or down. This will help you curve the ball around or over the wall of players.
 
@@ -77,7 +77,7 @@ The episode on the police featured a chase. While the gameplay is not particular
 
 I created this game for fun. It features unique gameplay. You must move marbles through a maze to get them to a new position. The maze becomes more complex with each level. You cannot control the marbles directly, but you can tilt the maze to the left or right, which sets the marbles in motion.
 
-<iframe width="540" height="570" src="https://www.youtube.com/embed/koLAGgCKOn4?si=RrJyM913T0NTd5h6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include framework/shortcodes/video.html src="https://www.youtube.com/embed/koLAGgCKOn4?si=RrJyM913T0NTd5h6" aspect_ratio="105%" %}
 
 # Municipality of Utrecht: Bus game
 
