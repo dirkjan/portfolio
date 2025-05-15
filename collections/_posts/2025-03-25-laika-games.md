@@ -4,8 +4,8 @@ title: "Various online games"
 date: 2025-03-25
 categories: ["Games", "Concept development"]
 description: "As a founder of a website and game agency, I designed and developed numerous online games."
-thumbnail: "/assets/images/gen/blog/blog-8-thumbnail.png"
-image: "/assets/images/gen/content/blog-8/police.jpg"
+thumbnail: "/assets/images/gen/blog/blog-games-thumbnail.png"
+image: "/assets/images/gen/content/blog-games/police.jpg"
 ---
 
 # Introduction
@@ -39,25 +39,25 @@ The Dutch broadcasting company NCRV featured a TV show 'Willem Wever,' which ans
 
 The episode on twins was accompanied by a unique game. There are two floors, with a sister on each floor. The player controls both sisters simultaneously. If the top twin jumps, the bottom one jumps as well. Therefore, the player must pay attention to both floors simultaneously and ensure that a movement intended for one sister does not harm the other!
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-8/twins.jpg" title="Twin game: control two characters at the same time" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-games/twins.jpg" title="Twin game: control two characters at the same time" %}
 
 ### NCRV Photo shooter game
 
 The Photo shooter game features unique gameplay. The user must construct a photo on the right by hitting parts of the photo that drop down from the top. If the user hits a part, it is stacked onto the other parts on the right. If a user hit the wrong part, it can be removed again from the stack by shooting it.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-8/photo-shooter.jpg" title="Photo shooter: construct a photo by hitting the dropping parts" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-games/photo-shooter.jpg" title="Photo shooter: construct a photo by hitting the dropping parts" %}
 
 ### NCRV Coral Game
 
 In the Coral game, the user must maneuver a school of fish through a cave while avoiding rocks. The challenge is that each fish in the school follows the next one with a slight delay. The school grows with each level. I created the algorithm for the movement of the school.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-8/coral.jpg" title="Coral game: control a growing school of fish" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-games/coral.jpg" title="Coral game: control a growing school of fish" %}
 
 ### NCRV Soccer Game
 
 In the Soccer game, you have to kick a ball through a hole by hitting it at the right spot. A larger hole is easier to hit but will earn you fewer points.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-8/soccer.jpg" title="Soccer game: kick the ball through the holes" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-games/soccer.jpg" title="Soccer game: kick the ball through the holes" %}
 
 We later extended this game to a ‘Free Kick’ version for a commercial game site.
 
@@ -71,7 +71,7 @@ To be honest, the gameplay was a bit complicated for a casual web game, but I am
 
 The episode on the police featured a chase. While the gameplay is not particularly special, I am most proud of the technical aspects. The game is in 3D, which was not supported by Flash ActionScript or any library, so I developed it myself. I also created all the 3D assets in Adobe Illustrator.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-8/police.jpg" title="Police race: stay out of the hands of the police" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-games/police.jpg" title="Police race: stay out of the hands of the police" %}
 
 # Free Work: Space marbles
 
@@ -83,7 +83,7 @@ I created this game for fun. It features unique gameplay. You must move marbles 
 
 The municipality of Utrecht intended to create bus lanes in the city that would affect car drivers. They wanted to foster a positive attitude towards the lanes and explain the benefits of public transport through a game.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-8/bus-upsampled.jpg" width="100" title="Bus game: pick up the factory workers before they go by car" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-games/bus-upsampled.jpg" width="100" title="Bus game: pick up the factory workers before they go by car" %}
 
 The game may not look fancy, but I am proud of how the gameplay aligns with the municipality's message. In the game, citizens (represented as small black dots in the image) leave their houses and walk to the nearest bus station.  As the player it is your task to pick them up with the bus in time and bring them to their work, the factory on the right. If you do not pick them up in time, they walk back to their house and go by car. This will eventually congest the city and make your task as bus driver even harder. If you crash onto a car, you loose.
 
@@ -97,18 +97,18 @@ The CNV union asked us to create a game to teach youth about applying for a job.
 - Getting jobs
 - Adjusting their CV
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-8/baanscoren-title-screen.png" title="Title screen" %}
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-8/baanscoren-vacancies.jpeg" title="Read the paper to find vacancies. Some were a bit absurd; for example, one could apply to be the pope." %}
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-8/baanscoren-profile.jpeg" title="Edit your avatar. Don't forget to update it before you to an interview  or you can lose the job based on your appearance." %}
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-8/baanscoren-interview.jpeg" title="Job interview. During interviews, the game character will sometimes lose it's posture. Click on it to straighten it up again." %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-games/baanscoren-title-screen.png" title="Title screen" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-games/baanscoren-vacancies.jpeg" title="Read the paper to find vacancies. Some were a bit absurd; for example, one could apply to be the pope." %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-games/baanscoren-profile.jpeg" title="Edit your avatar. Don't forget to update it before you to an interview  or you can lose the job based on your appearance." %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-games/baanscoren-interview.jpeg" title="Job interview. During interviews, the game character will sometimes lose it's posture. Click on it to straighten it up again." %}
 
 We developed and tested the game in cooperation with a focus group of adolescents.
 
 <figure style="display: flex; flex-direction: column; gap: 1rem;" caption="test">
   <div style="display: flex; gap: 1rem;">
-    <span><img style="margin: 0;" src="{{ '/assets/images/gen/content/blog-8/panel-1.jpg' | relative_url }}" /></span>
-    <span><img style="margin: 0;" src="{{ '/assets/images/gen/content/blog-8/panel-2.jpg' | relative_url }}" /></span>
-    <span><img style="margin: 0;" src="{{ '/assets/images/gen/content/blog-8/panel-3.jpg' | relative_url }}" /></span>
+    <span><img style="margin: 0;" src="{{ '/assets/images/gen/content/blog-games/panel-1.jpg' | relative_url }}" /></span>
+    <span><img style="margin: 0;" src="{{ '/assets/images/gen/content/blog-games/panel-2.jpg' | relative_url }}" /></span>
+    <span><img style="margin: 0;" src="{{ '/assets/images/gen/content/blog-games/panel-3.jpg' | relative_url }}" /></span>
   </div>
 </figure>
 

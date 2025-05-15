@@ -6,8 +6,8 @@ authors: ["Mike Vance"]
 categories: ["Visual design", "Illustration", "Front end development", "Ruby on Rails", "Usability testing"]
 client: BuyBay
 description: Optimization to make use of larger screens and to improve touch operation.
-thumbnail: "/assets/images/gen/blog/blog-2-thumbnail.png"
-image: "/assets/images/gen/content/blog-2/visual-design/grade.png"
+thumbnail: "/assets/images/gen/blog/blog-grading-redesign-thumbnail.png"
+image: "/assets/images/gen/content/blog-grading-redesign/visual-design/grade.png"
 comments: false
 subscribe: true
 ---
@@ -35,9 +35,9 @@ While the desktop layout was functional, it was not optimized for the larger scr
 Here are two examples of the old grading screens:
 
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-2/old/grading-checkbox.png" title="Old design of a grading step: checkbox question (more than one option possible)" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-grading-redesign/old/grading-checkbox.png" title="Old design of a grading step: checkbox question (more than one option possible)" %}
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-2/old/grading-radio.png" title="Old design of a grading step: radio button question (only one option possible)" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-grading-redesign/old/grading-radio.png" title="Old design of a grading step: radio button question (only one option possible)" %}
 
 I did an ‘expert analysis’ and observations in the work place and noticed the following possibilities for improvement on the screen above:
 
@@ -53,7 +53,7 @@ I did an ‘expert analysis’ and observations in the work place and noticed th
 
 I created a new design in Figma:
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-2/visual-design/grade.png" title="Redesign of the grading step with ‘radio button’ answers (only one possible answer)" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-grading-redesign/visual-design/grade.png" title="Redesign of the grading step with ‘radio button’ answers (only one possible answer)" %}
 
 Improvements:
 - Large buttons that are easy to hit.
@@ -65,11 +65,11 @@ Improvements:
 - An animation that scrolled the current step out of view before a new one was presented. This distracted the user from the delay caused by the third party workflow software.
 - A button to quickly get all possible information on the return (see screen below).
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-2/visual-design/popup.png" title="Popup with all information on the current return" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-grading-redesign/visual-design/popup.png" title="Popup with all information on the current return" %}
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-2/visual-design/checkboxes.png" title="Redesign of a grading step with ‘checkbox’ answers; more than one possible answer" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-grading-redesign/visual-design/checkboxes.png" title="Redesign of a grading step with ‘checkbox’ answers; more than one possible answer" %}
 
-{% include framework/shortcodes/figure.html width="40%" src="/assets/images/gen/content/blog-2/visual-design/grading-mobile.png" title="Redesign of the mobile version" %}
+{% include framework/shortcodes/figure.html width="40%" src="/assets/images/gen/content/blog-grading-redesign/visual-design/grading-mobile.png" title="Redesign of the mobile version" %}
 
 
 # Prototype and usability test
@@ -82,11 +82,11 @@ I built another prototype and did another usability test with it. Some of the th
 
 I tested the icons by letting people match descriptions with images. That way I learned that these icons were too smilar:
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-2/icon-not-understood.png" title="These icons were too similar" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-grading-redesign/icon-not-understood.png" title="These icons were too similar" %}
 
 I eventually redesigned them like this:
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-2/icon-redesign.png" title="Icons redesign" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-grading-redesign/icon-redesign.png" title="Icons redesign" %}
 
 # Result
 

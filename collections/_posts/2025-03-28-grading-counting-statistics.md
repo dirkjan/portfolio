@@ -5,8 +5,8 @@ date: 2025-03-28
 authors: ["Dirk-Jan Hoek"]
 categories: ["Front end development", "Visual design"]
 description: Performance statistics with an innovative and productive layout.
-thumbnail: "/assets/images/gen/blog/blog-5-thumbnail.png"
-image: "/assets/images/gen/content/blog-5/team.png"
+thumbnail: "/assets/images/gen/blog/blog-stats-thumbnail.png"
+image: "/assets/images/gen/content/blog-stats/team.png"
 comments: false
 ---
 
@@ -32,7 +32,7 @@ BuyBay takes returned products from webshops, assesses and improves them, and se
 # Visual design
 I created a visual design for the requested statistics:
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-5/team.png" title="Overview of the performance of all employees" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-stats/team.png" title="Overview of the performance of all employees" %}
 
 - Because a lot of employers do both counting and grading, I thought it was best to combine both statistics in one view. This way, when a grader does little work on a day for example, you can easily see if this was because they worked more in counting.
 - Unlike most bar charts, all the bars and the corresponding labels (the names) are horizontal. That way the labels are much better readable than in traditional vertical bar charts where they would have been presented vertically or diagonally. Also it allows for vertical scrolling which is more user friendly than horizontal scrolling.
@@ -41,7 +41,7 @@ I created a visual design for the requested statistics:
     - You can sort a column, by clicking the header.
     - Every row (representing an employee) is clickable. This leads to a page with more details, see below.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-5/individual.png" title="Detailed information for one employee" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-stats/individual.png" title="Detailed information for one employee" %}
 
 
 # Implementation
