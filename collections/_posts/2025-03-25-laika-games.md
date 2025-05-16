@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Various online games"
+title: "Various online games and puzzles"
 date: 2025-03-25
 categories: ["Games", "Concept development"]
-description: "As a founder of website and game agency Laika, I designed and developed numerous online games."
+description: "As a founder of website and game agency Laika, I designed and developed numerous online games and puzzles."
 thumbnail: "/assets/images/gen/blog/blog-games-thumbnail.png"
 image: "/assets/images/gen/content/blog-games/police.jpg"
 ---
@@ -29,7 +29,9 @@ Vitamine P, our puzzle/braintraining website, presented five new puzzles each da
 
 {% include framework/shortcodes/video.html src="https://player.vimeo.com/video/384178092?h=ab779a1a6a" aspect_ratio="66%" %}
 
-The website kept track of your personal PQ, or puzzle performance. Most of the puzzles were generated in advance and were identical for all players, allowing users to chat about the puzzles with each other. We sold Vitamine P to Keesing, part of De Telegraaf, the largest Dutch newspaper.
+The website kept track of your personal PQ, or puzzle performance. Most of the puzzles were generated in advance and were identical for all players, allowing users to chat about the puzzles with each other.
+
+We sold Vitamine P to Keesing, part of De Telegraaf, the largest Dutch newspaper. [Read the full article on Vitamine P](/blog/2025-04-02-vitamine/)
 
 # NCRV: games for a children's tv-show
 
