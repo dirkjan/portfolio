@@ -31,7 +31,7 @@ Vitamine P, our puzzle/braintraining website, presented five new puzzles each da
 
 The website kept track of your personal PQ, or puzzle performance. Most of the puzzles were generated in advance and were identical for all players, allowing users to chat about the puzzles with each other.
 
-We sold Vitamine P to Keesing, part of De Telegraaf, the largest Dutch newspaper. [Read the full article on Vitamine P](/blog/2025-04-02-vitamine/)
+We sold Vitamine P to Keesing, part of De Telegraaf, the largest Dutch newspaper. [Read more on Vitamine P](/blog/2025-04-02-vitamine/)
 
 # NCRV: games for a children's tv-show
 
