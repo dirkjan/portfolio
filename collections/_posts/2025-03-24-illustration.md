@@ -3,7 +3,7 @@ layout: post
 title: "Illustration and animation"
 date: 2025-03-25
 categories: []
-description: "Over the years I have created illustrations, animations, and icons."
+description: "I created many illustrations, animations and icons."
 thumbnail: "/assets/images/gen/blog/blog-illustration-thumbnail.png"
 
 ---
