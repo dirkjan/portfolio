@@ -10,20 +10,28 @@ thumbnail: "/assets/images/gen/blog/blog-illustration-thumbnail.png"
 
 # BuyBay: icon libraries
 
-BuyBay specializes in taking returned products from webshops, assessing and improving them, and reselling them. For this company, I created various 3D icons.
+BuyBay specializes in taking returned products from webshops, assessing and improving them, and reselling them. To streamline the assessment process, BuyBay developed flexible 'grading' software as a SaaS solution. I created various icons for this software.
+
+### 3D icons
+Options in the BuyBay grading workflows have large buttons with, so that they are easy to hit. I created dozens of large 3D icons for these options. Here are some samples.
 
 <figure style="display: flex; flex-direction: column; gap: 1rem;">
   <div style="display: flex; gap: 1rem;">
-    <span><img style="margin: 0;" src="{{ '/assets/images/gen/content/blog-illustration/grading-icons/azertyKeyboard.png' | relative_url }}" /></span>
-    <span><img style="margin: 0;" src="{{ '/assets/images/gen/content/blog-illustration/grading-icons/deepClean_true.png' | relative_url }}" /></span>
-    <span><img style="margin: 0;" src="{{ '/assets/images/gen/content/blog-illustration/grading-icons/exceptionReason_emptyPackage.png' | relative_url }}" /></span>
+    <span><img style="margin: 0; padding: 1rem; background-color: #D3EFCB;" src="{{ '/assets/images/gen/content/blog-illustration/grading-icons/azertyKeyboard.png' | relative_url }}" /></span>
+    <span><img style="margin: 0; padding: 1rem; background-color: #D3EFCB;" src="{{ '/assets/images/gen/content/blog-illustration/grading-icons/deepClean_true.png' | relative_url }}" /></span>
+    <span><img style="margin: 0; padding: 1rem; background-color: #D3EFCB;" src="{{ '/assets/images/gen/content/blog-illustration/grading-icons/exceptionReason_emptyPackage.png' | relative_url }}" /></span>
   </div>
   <div style="display: flex; gap: 1rem;">
-    <span><img style="margin: 0;" src="{{ '/assets/images/gen/content/blog-illustration/grading-icons/packageState_original_opened_damaged_replace.png' | relative_url }}" /></span>
-    <span><img style="margin: 0;" src="{{ '/assets/images/gen/content/blog-illustration/grading-icons/productStateExpert_not_functional.png' | relative_url }}" /></span>
-    <span><img style="margin: 0;" src="{{ '/assets/images/gen/content/blog-illustration/grading-icons/ukPlug.png' | relative_url }}" /></span>
+    <span><img style="margin: 0; padding: 1rem; background-color: #D3EFCB;" src="{{ '/assets/images/gen/content/blog-illustration/grading-icons/packageState_original_opened_damaged_replace.png' | relative_url }}" /></span>
+    <span><img style="margin: 0; padding: 1rem; background-color: #D3EFCB;" src="{{ '/assets/images/gen/content/blog-illustration/grading-icons/productStateExpert_not_functional.png' | relative_url }}" /></span>
+    <span><img style="margin: 0; padding: 1rem; background-color: #D3EFCB;" src="{{ '/assets/images/gen/content/blog-illustration/grading-icons/ukPlug.png' | relative_url }}" /></span>
   </div>
 </figure>
+
+The icons are easily recognizable as a family, because they share the same perspective. [Read more on the context of these icons](/blog/2025-03-31-grading-visual-design/)
+
+
+
 
 # Quiz and website hosts
 
