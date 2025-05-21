@@ -7,6 +7,7 @@
 {% assign authors = include.authors %}
 {% assign date = include.date %}
 {% assign badge = include.badge %}
+{% assign border = include.border %}
 
 <div class="heading {% if align %}heading-{{ align }}{% endif %}">
   {% if badge %}
@@ -14,13 +15,13 @@
       <span>{{ badge }}</span>
     </div>
   {% endif %}
-  
+
   {% if title %}
   <div class="heading-heading">
     <h1>{{ title }}</h1>
   </div>
   {% endif %}
-  
+
   {% if description %}
     <div class="heading-description">
       <p>{{ description }}</p>
@@ -29,7 +30,7 @@
 
   {% if image and image != "" %}
     <div class="heading-image">
-      <img {% if title %} alt="{{ title }}" {% endif %} src="{{ image | relative_url }}"/>
+      <img {% if title %} alt="{{ title }}" {% endif %} src="{{ image | relative_url }}" {% if border == false %} class="no-border" {% endif %}/>
     </div>
   {% endif %}
 </div>

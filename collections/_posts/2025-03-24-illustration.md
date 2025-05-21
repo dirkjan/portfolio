@@ -5,7 +5,8 @@ date: 2025-03-25
 categories: []
 description: "I created many illustrations, animations and icons."
 thumbnail: "/assets/images/gen/blog/blog-illustration-thumbnail.png"
-
+image: "/assets/images/gen/content/blog-illustration/buybay-comic/page1-row1.png"
+border: false
 ---
 
 # BuyBay: icon libraries
@@ -60,4 +61,19 @@ BuyBay specializes in taking returned products from webshops, assessing and impr
   src="/assets/images/gen/content/blog-illustration/buybay-comic/page2.png"
   border="false"
   title="BuyBay process: page 2"
+%}
+
+# Graphic novels
+
+I wrote two graphic novels, De Hemingway triatlon (The Hemingway Triathlon, 2019) and Mao's Mussen (Mao's Sparrows, 2013). I wrote the stories, drew all the pages and I designed the covers (I received some aid from Peter Kuiper for the cover of De Hemingway triatlon).
+
+{% include framework/shortcodes/figures.html
+  path="/assets/images/gen/content/blog-illustration/books"
+  files="mussen-cover.jpg,hemingway-cover.png"
+  title="Covers from <b>De Hemingway triatlon</b> and <b>Mao's mussen</b>"
+%}
+
+{% include framework/shortcodes/figure.html
+  src="/assets/images/gen/content/blog-illustration/books/page_118.png"
+  title="Page from De Hemingway triatlon"
 %}
