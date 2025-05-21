@@ -27,6 +27,8 @@ On a desktop screen, this task list looked like this:
 
 Unfortunately, not all participants always completed all tasks. According to my employer, the task list appeared boring and uninviting. A more engaging format could lead to better responses. My assignment was to find a different format for the same tasks that resembled a game more. The focus was on the mobile app; we would not adjust the desktop view to save time. Therefore, the new format had to be compatible with it.
 
+> "Dirk-Jan always thought with the business and helped to make our products more engaging, such as in this gamification project."
+
 ### My role
 
 - Concept development
@@ -59,4 +61,6 @@ My employer was enthusiastic, so I received the green light for a visual design:
 The entire mobile app, of which the task list is a part, was created by an external developer. I only oversaw the execution.
 
 # Result
-My employer was very satisfied and demonstrated this component with great enthusiasm to potential clients.
+My employer was very satisfied and demonstrated this component with great enthusiasm to potential clients. In her words: "Dirk-Jan is a talented designer and developer. It is not very often that one person can effectively combine both these skills, but Dirk-Jan does this very well. He always thought with the business and helped to make our products more engaging, such as in this gamification project. He is a pleasure to work with."
+
+Even though the design is from 2018 and the mobile app received a complete make-over recently, the feature is still in use.
