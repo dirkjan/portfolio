@@ -106,12 +106,10 @@ The CNV union asked us to create a game to teach youth about applying for a job.
 
 We developed and tested the game in cooperation with a focus group of adolescents.
 
-<figure style="display: flex; flex-direction: column; gap: 1rem;" caption="test">
-  <div style="display: flex; gap: 1rem;">
-    <span><img style="margin: 0;" src="{{ '/assets/images/gen/content/blog-games/panel-1.jpg' | relative_url }}" /></span>
-    <span><img style="margin: 0;" src="{{ '/assets/images/gen/content/blog-games/panel-2.jpg' | relative_url }}" /></span>
-    <span><img style="margin: 0;" src="{{ '/assets/images/gen/content/blog-games/panel-3.jpg' | relative_url }}" /></span>
-  </div>
-</figure>
+{% include framework/shortcodes/figures.html
+  path="/assets/images/gen/content/blog-games"
+  files="panel-1.jpg,panel-2.jpg,panel-3.jpg"
+  title="Application game focus group"
+%}
 
 The game was a big success, played by 1,300 players per day, which was a multiple of CNV's expectations. Kids even created a 42-page forum topic on the game, [which can still be read](https://www.bokt.nl/forums/viewtopic.php?f=6&t=927864&start=1025.).

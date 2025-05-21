@@ -1,0 +1,27 @@
+{% assign rows = include.files | split: "|" %}
+{% assign flex = include.flex | plus: 0 %}
+{% if flex == nil or flex == 0 %}
+  {% assign flex = 1 %}
+{% endif %}
+
+<figure style="display: flex; flex-direction: column; gap: 1rem;">
+  {% for row in rows %}
+    <div style="display: flex; gap: 1rem;">
+      {% assign files = row | split: "," %}
+      {% for file in files %}
+        <span style="flex: {{ flex }}">
+        {% if file == "null" %}
+          <img style="margin: 0; visibility: hidden; width" />
+        {% else %}
+          <img style="margin: 0; padding: {{ include.padding }}; background-color: {{ include.background_color }}" src="{{ include.path }}/{{ file }}" />
+        {% endif %}
+        </span>
+      {% endfor %}
+    </div>
+  {% endfor %}
+  {% if include.title %}
+    <figcaption>
+      <h4 style="margin-top: -1rem;">{{ include.title }}</h4>
+    </figcaption>
+  {% endif %}
+</figure>
