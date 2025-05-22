@@ -14,7 +14,7 @@ border: false
 BuyBay specializes in taking returned products from webshops, assessing and improving them, and reselling them. To streamline the assessment process, BuyBay developed flexible 'grading' software as a SaaS solution. I created various icons for this software.
 
 ### 3D icons
-Options in the BuyBay grading workflows have large buttons with, so that they are easy to hit. I created dozens of large 3D icons for these options. Here are some samples.
+Options in the BuyBay grading workflows have large buttons, so that they are easy to hit. I created dozens of large 3D icons for these buttons. Here are a few samples.
 
 {% include framework/shortcodes/figures.html
   path="/assets/images/gen/content/blog-illustration/grading-icons"
