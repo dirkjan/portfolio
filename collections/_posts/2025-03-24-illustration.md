@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Illustration and animation"
+title: "Various clients: illustration and animation"
 date: 2025-03-25
 categories: []
 description: "I created many illustrations, animations and icons."
@@ -13,12 +13,34 @@ border: false
 
 BuyBay specializes in taking returned products from webshops, assessing and improving them, and reselling them. To streamline the assessment process, BuyBay developed flexible 'grading' software as a SaaS solution. I created various icons for this software.
 
+### Regular icons
+
+The BuyBay grading software uses the [Lineair icon library](https://linearicons.com) for icons on regular buttons. This library contains 1000 icon images, but that was not enough for all purposes so I had to create several new icons in the same style. Here are some samples. The blue icons are examples from the Lineair icon library, the green icons are mine.
+
+{% include framework/shortcodes/figures.html
+  path="/assets/images/gen/content/blog-illustration/icons/lnr"
+  files="0001-home.svg,0014-pencil.svg,0064-umbrella.svg,0151-envelope.svg,0182-file-check.svg,0287-user.svg,0390-calendar-empty.png,null,null"
+  padding="8px"
+  background_color="#BFE8EB"
+  title="Samples from the Lineair icon library"
+%}
+
+{% include framework/shortcodes/figures.html
+  path="/assets/images/gen/content/blog-illustration/icons"
+  files="beluga.svg,bol.svg,pallet.svg,add-pallet.svg,move-lp.svg,clipboard-paste-into.svg,conveyor.svg,null,null|dev.svg,edit-date.svg,info.svg,palm-tree.svg,robot.svg,rules.svg,text.svg,null,null"
+  padding="8px"
+  background_color="#D3EFCB"
+  title="My icons in the same style"
+%}
+
+
+
 ### 3D icons
-Options in the BuyBay grading workflows have large buttons, so that they are easy to hit. I created dozens of large 3D icons for these buttons. Here are a few samples.
+Options in the BuyBay grading workflows have large buttons, so that they are easy to hit on touch screens. I created dozens of large 3D icons for these buttons. Here are a few samples.
 
 {% include framework/shortcodes/figures.html
   path="/assets/images/gen/content/blog-illustration/grading-icons"
-  files="azertyKeyboard.png,deepClean_true.png,exceptionReason_emptyPackage.png|packageState_original_opened_damaged_replace.png,productStateExpert_not_functional.png,ukPlug.png"
+  files="azertyKeyboard.svg,deepClean_true.svg,exceptionReason_emptyPackage.svg|packageState_original_opened_damaged_replace.svg,productStateExpert_not_functional.svg,ukPlug.svg"
   padding="1rem"
   background_color="#D3EFCB"
 %}
@@ -37,7 +59,7 @@ From 2000 to 2012, I co-owned a web design agency. For some of the clients, I cr
 
 {% include framework/shortcodes/figure.html
   src="/assets/images/gen/content/blog-illustration/simenavi.png"
-  title="Water droplets Sim and Avi, hosts of a website for the Simavi foundation about water"
+  title="Water droplets Sim and Avi, hosts of a website  about water for the Simavi foundation"
 %}
 
 {% include framework/shortcodes/figures.html

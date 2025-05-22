@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Various online games and puzzles"
+title: "Various clients: games and puzzles"
 date: 2025-03-25
 categories: ["Games", "Concept development"]
 description: "As a founder of website and game agency Laika, I designed and developed numerous online games and puzzles."
