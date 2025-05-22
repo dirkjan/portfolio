@@ -9,11 +9,12 @@
     <div style="display: flex; gap: 1rem;">
       {% assign files = row | split: "," %}
       {% for file in files %}
+      {% assign url = include.path | append: '/' | append: file %}
         <span style="flex: {{ flex }}">
         {% if file == "null" %}
           <img style="margin: 0; visibility: hidden; width" />
         {% else %}
-          <img style="margin: 0; padding: {{ include.padding }}; background-color: {{ include.background_color }}" src="{{ include.path }}/{{ file }}" />
+          <img style="margin: 0; padding: {{ include.padding }}; background-color: {{ include.background_color }}" src="{{ url | relative_url }}" />
         {% endif %}
         </span>
       {% endfor %}
