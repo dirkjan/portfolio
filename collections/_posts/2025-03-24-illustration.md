@@ -15,7 +15,7 @@ BuyBay specializes in taking returned products from webshops, assessing and impr
 
 ### Regular icons
 
-The BuyBay grading software uses the [Lineair icon library](https://linearicons.com) for icons on regular buttons. This library contains 1000 icon images, but that was not enough for all purposes so I had to create several new icons in the same style. Here are some samples. The blue icons are examples from the Lineair icon library, the green icons are mine.
+The BuyBay grading software uses the [Lineair icon library](https://linearicons.com) for icons on regular buttons. This library contains 1000 icon images, but that was not enough for all purposes so I had to create several new icons in the same style. Here are some samples. The blue icons are examples from the Lineair icon library, the green icons are my designs.
 
 {% include framework/shortcodes/figures.html
   path="/assets/images/gen/content/blog-illustration/icons/lnr"
@@ -33,8 +33,6 @@ The BuyBay grading software uses the [Lineair icon library](https://linearicons.
   title="My icons in the same style"
 %}
 
-
-
 ### 3D icons
 Options in the BuyBay grading workflows have large buttons, so that they are easy to hit on touch screens. I created dozens of large 3D icons for these buttons. Here are a few samples.
 
@@ -46,6 +44,28 @@ Options in the BuyBay grading workflows have large buttons, so that they are eas
 %}
 
 The icons are easily recognizable as a family, because they share the same perspective. [Read more on the context of these icons](/blog/2025-03-31-grading-visual-design/)
+
+# BuyBay: functional animations
+
+Animations are not just fun; they can be very functional. At BuyBay (a company that resells webshop returns) I solved two UX problems only by adding simple animations.
+
+## Animation to indicate product placement
+
+ In the BuyBay warehouse, incoming products are counted and placed on a conveyor belt. On rare occasions, the counters have to place the product on a cart instead of the conveyor belt. This led to many mistakes because they were so accustomed to using the belt that it had become an automatism. I created different color schemes and animations to indicate the use of the belt or a cart. This solved the problem completely.
+
+{% include framework/shortcodes/figure.html
+  src="/assets/images/gen/content/blog-illustration/conveyor-animation.png"
+  title="Animation that indicats product placement"
+%}
+
+## Animation to reduce perceived load time
+
+In the BuyBay warehouse, so-called graders assess webshop returns. They have to follow a step-by-step workflow. We received complaints that new steps sometimes took a long time to load, which made the app feel unresponsive. Unfortunately, we could not fix this delay because it came from third-party software. So, I decided to fix the perception; when the user clicks 'Next' or 'Previous', the current step scrolls out of view. This immediate visible response made the application feel faster and solved the problem.
+
+{% include framework/shortcodes/figure.html
+  src="/assets/images/gen/content/blog-illustration/grading-transition.png"
+  title="Transition animation to reduce perceived load time"
+%}
 
 # Quiz and website hosts
 
@@ -92,7 +112,7 @@ I wrote two graphic novels, De Hemingway triatlon (The Hemingway Triathlon, 2019
 {% include framework/shortcodes/figures.html
   path="/assets/images/gen/content/blog-illustration/books"
   files="mussen-cover.jpg,hemingway-cover.png"
-  title="Covers from <b>De Hemingway triatlon</b> and <b>Mao's mussen</b>"
+  title="Covers from <b>Mao's mussen</b> and <b>De Hemingway triatlon</b>"
 %}
 
 {% include framework/shortcodes/figure.html
