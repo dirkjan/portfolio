@@ -1,8 +1,8 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: "/portfolio"
-url: "https://dirkjan.github.io"
+baseurl: ""
+url: "http://portfolio.hoek.info"
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
