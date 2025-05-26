@@ -58,6 +58,24 @@ Animations are not just fun; they can be very functional. At BuyBay (a company t
   title="Animation that indicats product placement"
 %}
 
+### Easter egg
+
+During holidays, the box in the animations above is sometimes replaced with a thematically appropriate alternative, such as an Easter egg for Easter.
+
+{% include framework/shortcodes/figure.html
+src="/assets/images/gen/content/blog-illustration/easter-egg.png"
+title="Conveyor belt with chocolate letter, only visible on Sinterklaas (Dutch holiday)"
+%}
+
+A few other alternatives for the box:
+
+{% include framework/shortcodes/figures.html
+  path="/assets/images/gen/content/blog-illustration/easter-egg"
+  files="egg3.svg,pumpkin.svg,box-orange.svg,valentine-present.svg,baklava1.svg"
+  background_color="#FAEEC5"
+  title="Easter eggs for Easter, Halloween, King's day, Valentine's day and Eid al-Fitr"
+%}
+
 ## Animation to reduce perceived load time
 
 In the BuyBay warehouse, so-called graders assess webshop returns. They have to follow a step-by-step workflow. We received complaints that new steps sometimes took a long time to load, which made the app feel unresponsive. Unfortunately, we could not fix this delay because it came from third-party software. So, I decided to fix the perception; when the user clicks 'Next' or 'Previous', the current step scrolls out of view. This immediate visible response made the application feel faster and solved the problem.
