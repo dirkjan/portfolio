@@ -60,7 +60,7 @@ Animations are not just fun; they can be very functional. At BuyBay (a company t
 
 ### Easter egg
 
-During holidays, the box in the animations above is sometimes replaced with a thematically appropriate alternative, such as an Easter egg for Easter.
+During holidays, the box in the animations above is occasionally replaced with a thematically appropriate alternative, such as an Easter egg for Easter.
 
 {% include framework/shortcodes/figure.html
 src="/assets/images/gen/content/blog-illustration/easter-egg.png"
@@ -72,7 +72,7 @@ A few other alternatives for the box:
 {% include framework/shortcodes/figures.html
   path="/assets/images/gen/content/blog-illustration/easter-egg"
   files="egg3.svg,pumpkin.svg,box-orange.svg,valentine-present.svg,baklava1.svg"
-  background_color="#FAEEC5"
+  background_color="#FAF2C5"
   title="Easter eggs for Easter, Halloween, King's day, Valentine's day and Eid al-Fitr"
 %}
 
@@ -105,6 +105,17 @@ From 2000 to 2012, I co-owned a web design agency. For some of the clients, I cr
   files="pikwisso.gif,beeld/pikwisso.gif,dans/pikwisso.gif|drama/pikwisso.gif,literatuur/pikwisso.gif,muziek/pikwisso.gif"
   flex="-1"
   title="Cultural host Piquizzo (unfortunately the animations were lost, but I managed to save a few stills)"
+%}
+
+# Logo for Laika.nl
+
+From 2000 to 2012, I was a co-owner of a web design and game development agency named [Laika](/blog/2025-03-25-laika-games). The name was inspired by the first animal in space. I designed the logo for the agency.
+
+{% include framework/shortcodes/figures.html
+  path="/assets/images/gen/content/blog-illustration"
+  files="laika-logo.png,null,null"
+  border="false"
+  title="Logo for Laika.nl"
 %}
 
 # BuyBay: comic
