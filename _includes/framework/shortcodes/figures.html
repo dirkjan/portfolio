@@ -14,7 +14,7 @@
         {% if file == "null" %}
           <img style="margin: 0; visibility: hidden; width" />
         {% else %}
-          <img style="margin: 0; padding: {{ include.padding }}; background-color: {{ include.background_color }}" src="{{ url | relative_url }}" />
+          <img style="margin: 0; padding: {{ include.padding }}; background-color: {{ include.background_color }}" src="{{ url | relative_url }}" {% if include.border == 'false' %} class="no-border" {% endif %}/>
         {% endif %}
         </span>
       {% endfor %}

@@ -20,7 +20,7 @@ The BuyBay grading software uses the [Lineair icon library](https://linearicons.
 {% include framework/shortcodes/figures.html
   path="/assets/images/gen/content/blog-illustration/icons/lnr"
   files="0001-home.svg,0014-pencil.svg,0064-umbrella.svg,0151-envelope.svg,0182-file-check.svg,0287-user.svg,0390-calendar-empty.png,null,null"
-  padding="8px"
+  padding="10%"
   background_color="#BFE8EB"
   title="Samples from the Lineair icon library"
 %}
@@ -28,7 +28,7 @@ The BuyBay grading software uses the [Lineair icon library](https://linearicons.
 {% include framework/shortcodes/figures.html
   path="/assets/images/gen/content/blog-illustration/icons"
   files="beluga.svg,bol.svg,pallet.svg,add-pallet.svg,move-lp.svg,clipboard-paste-into.svg,conveyor.svg,null,null|dev.svg,edit-date.svg,info.svg,palm-tree.svg,robot.svg,rules.svg,text.svg,null,null"
-  padding="8px"
+  padding="10%"
   background_color="#D3EFCB"
   title="My icons in the same style"
 %}
