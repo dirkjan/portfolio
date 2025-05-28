@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Various clients: games and puzzles"
+title: "Games and puzzles"
 date: 2025-03-25
 categories: ["Games", "Concept development"]
-description: "As a founder of website and game agency Laika, I designed and developed numerous online games and puzzles."
+description: "Online games and puzzles for various clients."
 thumbnail: "/assets/images/gen/blog/blog-games-thumbnail.png"
-image: "/assets/images/gen/content/blog-games/police.jpg"
+image: "/assets/images/gen/content/blog-games/police.png"
 ---
 
 # Introduction
@@ -73,7 +73,7 @@ To be honest, the gameplay was a bit complicated for a casual web game, but I am
 
 The episode on the police featured a chase. While the gameplay is not particularly special, I am most proud of the technical aspects. The game is in 3D, which was not supported by Flash ActionScript or any library, so I developed it myself. I also created all the 3D assets in Adobe Illustrator.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-games/police.jpg" title="Police race: stay out of the hands of the police" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-games/police.png" title="Police race: stay out of the hands of the police" %}
 
 # Free work: Space marbles
 

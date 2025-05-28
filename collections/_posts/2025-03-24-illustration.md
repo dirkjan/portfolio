@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Various clients: illustration and animation"
+title: "Illustration and animation"
 date: 2025-03-25
 categories: []
-description: "I created many illustrations, animations and icons."
+description: "Illustrations, animations and icons for various clients."
 thumbnail: "/assets/images/gen/blog/blog-illustration-thumbnail.png"
 image: "/assets/images/gen/content/blog-illustration/buybay-comic/page1-row1.png"
 border: false
