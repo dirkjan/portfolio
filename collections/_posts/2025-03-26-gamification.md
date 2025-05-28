@@ -8,63 +8,63 @@ thumbnail: "/assets/images/gen/blog/blog-mdl-thumbnail.png"
 image: "/assets/images/gen/content/blog-gamification/onderwijs.png"
 ---
 
-# Gamification: een takenlijst die leuk is
+# Gamification: a task list that is fun
 
 From 2012 to 2019, I worked at [MyDailyLifestyle](http://www.mydailylifestyle.com), an organization dedicated to helping companies enhance the health of their employees.
 
-The employees follow a program lasting several weeks and receive new tasks each week. Om ze te motiveren om de taken te voltooien ontwierp ik een onconventionele takenlijst:
+The employees follow a program lasting several weeks and receive new tasks each week. To motivate them to complete the tasks, I designed an unconventional task list for the mobile app:
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-mdl/actions-visual-design.png" title="Visual design task list" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-mdl/actions-visual-design.png" title="MyDailyLifestyle task list" %}
 
 Above, you see the program tasks for the participant for the current week. Each task is a square block that covers a photo in the background. When the user has completed a task, the corresponding block disappears from the task overview page. This reveals another part of the photo. In this way, the user is encouraged to clear all blocks by completing all tasks. When a new week begins, new tasks and a new background photo appear.
 
 Even though the design is from 2018 and the mobile app received a complete make-over recently, the feature is still in use.
 
-[Lees de volledige case](/blog/2025-03-26-mdl-action-planner/)
+[Read the full case study](/blog/2025-03-26-mdl-action-planner/)
 
-# Simulations over ontwikkelingssamenwerking
+# Simulations on development cooperation
 
-From 2000 to 2012, I co-owned a web design and game development agency called Laika that created educational content for mostly non-profit clients such as Samsam, NCRV, and WWF. We always tried to add an element of fun. Daar heb ik veel van geleerd en die kennis paste ik toe bij mijn latere werkgevers MyDailyLifestyle en BuyBay.
+From 2000 to 2012, I co-owned a web design and game development agency called Laika that created educational content for mostly non-profit clients such as Samsam, NCRV, and WWF. We always tried to add an element of fun. I learned a lot from this and applied that knowledge at my later employers MyDailyLifestyle and BuyBay.
 
-Eén van onze projecten was een cd-rom over ontwikkelingssamenwerking voor de middelbare school. De cd-rom bevatte veel tekst, maar Laika bedacht diverse animaties en quizzen om de inhoud te verluchtigen. Bovendien kwam ik op het idee om lastige dilemma's te verbeelden in de vorm van simulaties. Daarbij konden kinderen zelf op de stoel van de regering gaan zitten en bepalen hoe belastinggeld moest worden besteed. Er waren vier simulaties:
+One of our projects was a CD-ROM on development cooperation for high school. The CD-ROM contained a lot of text, but Laika came up with various animations and quizzes to lighten the content. Moreover, I came up with the idea of illustrating difficult dilemmas in the form of simulations. In these, children could sit in the government's chair and determine how tax money should be spent. There were four simulations:
 
-- Onderwijs
-- Globalisering
-- Milieu
-- Aidspreventie
+- Education
+- Globalization
+- Environment
+- AIDS prevention
 
 ### My role
 - Concept development
 - Wireframe design
 - Development in Flash ActionScript (similar to JavaScript)
 
-### Simulatie over onderwijs
+### Simulation on education
 
 {% include framework/shortcodes/video.html src="https://player.vimeo.com/video/1087976298?h=4a3db0211b" aspect_ratio="64.5%" %}
 
-De leerling heeft vijf 'geldschuiven' tot zijn beschikking:
+The student has five 'money sliders' at their disposal:
 
-- Wegen
-- Scholen
-- Lerarenopleidingen
-- Lerarensalarissen
+- Roads
+- Schools
+- Teacher training
+- Teacher salaries
 
-Hij/zij/hen kan daarmee bepalen hoe het overheidsbudget wordt besteed. Wanneer je een slider naar rechts beweegt om meer te besteden, dan schuiven de anderen allemaal automatisch naar links. Door een druk op 'Start' begint de simulatie te lopen. Je ziet dan op de kaart hoe het land zich in de loop der tijd ontwikkelt. Bovendien ontwikkelt zich onderin beeld een grafiek met de belangrijkste KPI's. De leerling kan de simulatie op elk moment stoppen om zijn bestedingen aan te passen. Wanneer de leerling succesvol is, dan krijgt het land meer (belasting)inkomsten en heeft hij meer te besteden.
+The sliders determine how the government budget is spent. When you move a slider to the right to spend more, all the others automatically move to the left. By pressing 'Start', the simulation starts running. You then see on the map how the country develops over time. In addition, a graph with the most important KPIs develops at the bottom of the screen. The student can stop the simulation at any time to adjust their spending. If the student is successful, the country gets more (tax) revenues and has more to spend.
 
-### Simulatie over globalisering
+### Simulation on globalization
 
 {% include framework/shortcodes/video.html src="https://player.vimeo.com/video/1087976185?h=c5c3f0ef0d" aspect_ratio="64.5%" %}
 
-'Globalisering' is de eenvoudigste simulatie. Als uitzondering op de regel bestuurt de leerling hier een westers land. Hij/zij/hen heeft twee schuiven tot zijn beschikking, één voor exportsubsidies en één voor importheffingen. Je ziet in de simulatie al snel wat deze instrumenten voor desastreuze gevolgen hebben voor boeren in ontwikkelingslanden! Noot: deze software is behoorlijk oud. Hij werkt nog steeds, helaas met uitzondering van de grafiek onderin beeld (bij 'Onderwijs' werkt de grafiek wel).
+'Globalization' is the simplest simulation. As an exception to the rule, the student here governs a Western country. They have two sliders at their disposal, one for export subsidies and one for import duties. You quickly see in the simulation what disastrous consequences these instruments have for farmers in developing countries! Note: this software is quite old. It still works, unfortunately with the exception of the graph at the bottom of the screen (in 'Education' the graph does work).
 
-### Simulatie over milieu
+### Simulation on environment
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-gamification/milieu.png" title="Simulatie over het milieu" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-gamification/milieu.png" title="Simulation on the environment" %}
 
-In deze simulatie moet je bestedingen aan bosbouw, bosbouwefficientie, alternatieve energie en stroperpolitie in balans brengen.
+In this simulation, you have to balance spending on forestry, TFMSS (forestry efficiency), alternative energy, and poacher police.
 
-### Simulatie over aidspreventie
+### Simulation on AIDS prevention
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-gamification/aids.png" title="Simulatie over aidspreventie" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-gamification/aids.png" title="Simulation on AIDS prevention" %}
 
-In deze simulatie moet je bestedingen aan gratis voorbehoudsmiddelen, testklinieken, aidsremmers en voorlichtingsbureaus in balans brengen. Wie dit niet goed doet, verliest de beroepsbevolking en dus belastinginkomsten. Zo beland je in een negatieve spiraal.
+In this simulation, you have to balance spending on free contraceptives, testing clinics, AIDS inhibitors, and counseling offices. If you don't do this well, you lose the working population and thus tax revenues. This way, you end up in a negative spiral.

@@ -49,7 +49,7 @@ When the user has completed a task, the corresponding block disappears from the 
 
 Most weeks contain 5 or 6 tasks. If there are only 5, the user receives 1 block as a gift at the start of the week, which is already removed in advance. If a week contains more than 5 or 6 tasks, all task blocks become smaller.
 
-[Read the full wireframe design here](/assets/images/gen/content/blog-mdl/action-planner-wireframes.pdf)
+[Read the full wireframe design](/assets/images/gen/content/blog-mdl/action-planner-wireframes.pdf)
 
 # Visual design
 My employer was enthusiastic, so I received the green light for a visual design:
