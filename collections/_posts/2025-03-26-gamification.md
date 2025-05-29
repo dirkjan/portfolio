@@ -47,10 +47,13 @@ To motivate the children to continue working on their jaguar blog, they could ea
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-gamification/sos-jaguar/punten.gif" title="Voting and promotion" %}
 
 ### Examples of results
+Click on an image to enlarge it.
 
 {% include framework/shortcodes/figures.html
   path="/assets/images/gen/content/blog-gamification/sos-jaguar"
+  link="true"
   files="1.jpg,6.jpg|9.jpg,11.jpg"
+  title = "SOS jaguar blog examples - click on an image to enlarge"
 %}
 
 

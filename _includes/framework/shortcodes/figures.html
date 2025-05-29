@@ -14,7 +14,15 @@
         {% if file == "null" %}
           <img style="margin: 0; visibility: hidden; width" />
         {% else %}
-          <img style="margin: 0; padding: {{ include.padding }}; background-color: {{ include.background_color }}" src="{{ url | relative_url }}" {% if include.border == 'false' %} class="no-border" {% endif %}/>
+          {% assign relative_url = url | relative_url %}
+          {% assign style= "margin: 0; padding: {{ include.padding }}; background-color: {{ include.background_color }}" %}
+          {% if include.link | downcase == "true" %}
+            <a href="{{ relative_url }}">
+              <img style="{{ style }}" src="{{ relative_url }}" {% if include.border == 'false' %} class="no-border" {% endif %}/>
+            </a>
+          {% else %}
+            <img style="{{ style }}" src="{{ relative_url }}" {% if include.border == 'false' %} class="no-border" {% endif %}/>
+          {% endif %}
         {% endif %}
         </span>
       {% endfor %}
