@@ -15,7 +15,7 @@
           <img style="margin: 0; visibility: hidden; width" />
         {% else %}
           {% assign relative_url = url | relative_url %}
-          {% assign style= "margin: 0; padding: {{ include.padding }}; background-color: {{ include.background_color }}" %}
+          {% assign style = "margin: 0; padding: " | append: include.padding | append: "; background-color: " | append: include.background_color | append: ";" %}
           {% if include.link | downcase == "true" %}
             <a href="{{ relative_url }}">
               <img style="{{ style }}" src="{{ relative_url }}" {% if include.border == 'false' %} class="no-border" {% endif %}/>

@@ -23,7 +23,7 @@ Even though the design is from 2018 and the mobile app received a complete make-
 [Read the full case study](/blog/2025-03-26-mdl-action-planner/)
 
 
-# SOS jaguar: school project action for wwf
+# SOS jaguar: school project action for WWF
 
 From 2000 to 2012, I co-owned a web design and game development agency called Laika that created educational content. When WWF organized a campaign around the jaguar, it asked Laika to create a website where children could make their own jaguar page, a kind of blog. We created a drag-and-drop editor that was far ahead of its time.
 
