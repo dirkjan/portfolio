@@ -22,9 +22,41 @@ Even though the design is from 2018 and the mobile app received a complete make-
 
 [Read the full case study](/blog/2025-03-26-mdl-action-planner/)
 
+
+# SOS jaguar: school project action for wwf
+
+From 2000 to 2012, I co-owned a web design and game development agency called Laika that created educational content. When WWF organized a campaign around the jaguar, it asked Laika to create a website where children could make their own jaguar page, a kind of blog. We created a drag-and-drop editor that was far ahead of its time.
+
+### My role
+- Concept development
+- Wireframe design
+- Development in Flash ActionScript (similar to JavaScript)
+
+### Drag and drop editor
+The children were given a canvas on which they could draw, type, and place photos, videos, and animations. Everything could be distributed across the canvas using drag and drop. At that time, something like this was unique.
+
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-gamification/sos-jaguar/editor.png" title="Demo of the blog editor, a kind of Miro avant la lettre" %}
+
+For children who had trouble finding materials themselves, there was an extensive library with text fragments, pictures, animations, videos, photo frames, and donation links:
+
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-gamification/sos-jaguar/mediabieb.gif" title="SOS jaguar media library" %}
+
+### Voting buttons
+To motivate the children to continue working on their jaguar blog, they could earn votes from other children. They could also promote their project to friends and family.
+
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-gamification/sos-jaguar/punten.gif" title="Voting and promotion" %}
+
+### Examples of results
+
+{% include framework/shortcodes/figures.html
+  path="/assets/images/gen/content/blog-gamification/sos-jaguar"
+  files="1.jpg,6.jpg|9.jpg,11.jpg"
+%}
+
+
 # Simulations on development cooperation
 
-From 2000 to 2012, I co-owned a web design and game development agency called Laika that created educational content for mostly non-profit clients such as Samsam, NCRV, and WWF. We always tried to add an element of fun. I learned a lot from this and applied that knowledge at my later employers MyDailyLifestyle and BuyBay.
+From 2000 to 2012, I co-owned a web design and game development agency called Laika that created educational content. We always tried to add an element of fun. I learned a lot from this and applied that knowledge at my later employers MyDailyLifestyle and BuyBay.
 
 One of our projects was a CD-ROM on development cooperation for high school. The CD-ROM contained a lot of text, but Laika came up with various animations and quizzes to lighten the content. Moreover, I came up with the idea of illustrating difficult dilemmas in the form of simulations. In these, children could sit in the government's chair and determine how tax money should be spent. There were four simulations:
 

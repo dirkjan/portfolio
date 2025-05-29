@@ -37,7 +37,13 @@ Unfortunately, not all participants always completed all tasks. According to my 
 - Visual design
 
 # Concept development and wireframing
-I evetually came up with the following idea:
+Searching for ideas I thought of an old game that I loved as a kid, [Tutor Systems](https://en.wikipedia.org/wiki/Tutor_Systems) (known as Loco or Mini Loco in the Netherlands):
+
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-mdl/mini-loco.jpg" title="Tutor systems (Mini Loco)" %}
+
+You had to solve problems, and then you knew where to place certain tiles in a grid inside a box. Once completed, you closed the box, turned it upside down, reopened it, and a beautiful pattern was revealed.
+
+This inspired me to come up with the following idea:
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-mdl/actions-mobile-wireframe.png" title="Wireframe task list (mobile view)" %}
 
