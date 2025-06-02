@@ -100,11 +100,18 @@ From 2000 to 2012, I co-owned a web design agency. For some of the clients, I cr
   title="Water droplets Sim and Avi, hosts of a website  about water for the Simavi foundation"
 %}
 
-{% include framework/shortcodes/figures.html
-  path="/assets/images/gen/content/blog-illustration/pikwisso"
-  files="pikwisso.gif,beeld/pikwisso.gif,dans/pikwisso.gif|drama/pikwisso.gif,literatuur/pikwisso.gif,muziek/pikwisso.gif"
-  flex="-1"
-  title="Cultural host Piquizzo (unfortunately the animations were lost, but I managed to save a few stills)"
+<script language="javascript">
+  let counter = 1;
+  function showNext() {
+    counter++;
+    if (counter > 5) counter=1;
+    document.getElementById("pikwisso").src=`/assets/images/gen/content/blog-illustration/pikwisso/pikwisso${counter}.png`;
+  }
+</script>
+{% include framework/shortcodes/figure.html
+  src="/assets/images/gen/content/blog-illustration/pikwisso/pikwisso1.png"
+  id="pikwisso"
+  title="Cultural host Piquizzo - one of five animations. <a style='display: inline;' href='javascript:showNext();'>Show next animation</a>"
 %}
 
 # Logo for Laika.nl

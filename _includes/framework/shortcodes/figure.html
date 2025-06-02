@@ -1,10 +1,10 @@
 <figure {% if include.full %} class="figure-full" {% endif %} {% if include.width %} style="width: {{ include.width }};" {% endif %}  {% if include.border == 'false' %} class="no-border" {% endif %}>
   {% if include.link %}
     <a href="{{ include.link | relative_url }}" target="{{ include.target }}">
-      <img src="{{ include.src | relative_url }}" alt="{{ include.alt }}">
+      <img src="{{ include.src | relative_url }}" alt="{{ include.alt }}" id="{{ include.id }}">
     </a>
   {% else %}
-    <img src="{{ include.src | relative_url }}" alt="{{ include.title }}">
+    <img src="{{ include.src | relative_url }}" alt="{{ include.title }}" id="{{ include.id }}">
   {% endif %}
   <figcaption>
     <h4>{{ include.title }}</h4>
