@@ -102,16 +102,21 @@ From 2000 to 2012, I co-owned a web design agency. For some of the clients, I cr
 
 <script language="javascript">
   let counter = 1;
+
   function showNext() {
+    const elem = document.getElementById("pikwisso");
     counter++;
     if (counter > 5) counter=1;
-    document.getElementById("pikwisso").src=`/assets/images/gen/content/blog-illustration/pikwisso/pikwisso${counter}.png`;
+    elem.src = '/assets/images/gen/content/blog-illustration/pikwisso/pikwisso-spinner.gif';
+    elem.onload=() => {
+      elem.src=`/assets/images/gen/content/blog-illustration/pikwisso/pikwisso${counter}.png`;
+    }
   }
 </script>
 {% include framework/shortcodes/figure.html
   src="/assets/images/gen/content/blog-illustration/pikwisso/pikwisso1.png"
   id="pikwisso"
-  title="Cultural host Piquizzo - one of five animations. <a style='display: inline;' href='javascript:showNext();'>Show next animation</a>"
+  title="Cultural host Piquizzo - one of five animations. <a id='pikwissoLink' style='display: inline;' href='javascript:showNext();'>Show next animation</a>"
 %}
 
 # Logo for Laika.nl
