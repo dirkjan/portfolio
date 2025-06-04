@@ -88,6 +88,8 @@ I eventually redesigned them like this:
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-grading-redesign/icon-redesign.png" title="Icons redesign" %}
 
+[Read the full test plan and the results.](/assets/images/gen/content/blog-grading-redesign/test-plan.pdf)
+
 # Result
 
 The test did not bring big problems to light. When asked, 50% of the test population considered the new design better or much better (they are very conservative, so that is high).

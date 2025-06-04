@@ -59,6 +59,8 @@ There is no automatic ordering anymore, the rules can be dragged and dropped. Wi
 
 The stakeholders were very happy with this solution, so I continued with a visual design.
 
+[Read the full wireframes](/assets/images/gen/content/blog-routing/wireframes/wireframes-v2.pdf)
+
 # Visual design
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-routing/visual-design/preview.png" title="Generated flow chart for an owner" %}

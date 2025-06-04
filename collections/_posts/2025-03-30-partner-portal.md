@@ -46,6 +46,7 @@ Here are a the most important screenshots from the wireframes:
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-partner-portal/wireframes/announce-feedback.png" title="Announce a batch of returns - success message" %}
 
+[Read the full wireframes](/assets/images/gen/content/blog-partner-portal/wireframes/wireframes.pdf)
 
 # Visual design
 When the wireframe design was accepted, I created the visuals:
