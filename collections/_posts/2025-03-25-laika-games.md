@@ -27,7 +27,7 @@ I came up with many of the game concepts for Laika's clients as well as for Vita
 
 Vitamine P, our puzzle/braintraining website, presented five new puzzles each day in five categories. It was aimed at the elderly, who at the time of this project were not very computer savvy yet. Therefore, we paid a lot of attention to the UI, which was very straight forward and consistent across all puzzles. Additionally, each puzzle contained animated help instructions.
 
-{% include framework/shortcodes/video.html src="https://player.vimeo.com/video/384178092?h=ab779a1a6a" aspect_ratio="66%" %}
+{% include framework/shortcodes/video.html src="https://player.vimeo.com/video/384178092?h=ab779a1a6a" aspect_ratio="64%" %}
 
 The website kept track of your personal PQ, or puzzle performance. Most of the puzzles were generated in advance and were identical for all players, allowing users to chat about the puzzles with each other.
 
