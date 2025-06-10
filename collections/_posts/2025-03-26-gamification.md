@@ -8,7 +8,7 @@ thumbnail: "/assets/images/gen/blog/blog-mdl-thumbnail.png"
 image: "/assets/images/gen/content/blog-gamification/onderwijs.png"
 ---
 
-# Gamification: a task list that is fun
+# <a name="gamification-task-list"></a> Gamification: a task list that is fun
 
 From 2012 to 2019, I worked at [MyDailyLifestyle](http://www.mydailylifestyle.com), an organization dedicated to helping companies enhance the health of their employees.
 
