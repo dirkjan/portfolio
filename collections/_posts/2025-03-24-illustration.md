@@ -76,7 +76,7 @@ A few other alternatives for the box:
   title="Easter eggs for Easter, Halloween, King's day, Valentine's day and Eid al-Fitr"
 %}
 
-## Animation to reduce perceived load time
+## <a name="animation-load-time"></a> Animation to reduce perceived load time
 
 In the BuyBay warehouse, so-called graders assess webshop returns. They have to follow a step-by-step workflow. We received complaints that new steps sometimes took a long time to load, which made the app feel unresponsive. Unfortunately, we could not fix this delay because it came from third-party software. So, I decided to fix the perception; when the user clicks 'Next' or 'Previous', the current step scrolls out of view. This immediate visible response made the application feel faster and solved the problem.
 
