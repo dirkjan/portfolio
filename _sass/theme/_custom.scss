@@ -9,6 +9,28 @@
   }
 }
 
+.card-labels {
+  text-transform: uppercase;
+  color: #AAA;
+  margin-top: 4px;
+  margin-bottom: 8px;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 10%;
+}
+
+.card-title {
+  margin-bottom: 2px;
+}
+
+.card-description {
+  line-height: 24px;
+}
+
+.card {
+  margin-bottom: 12px;
+}
+
 img {
   border: 3px solid #FFFAE4;
   aspect-ratio: unset !important;

@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "BuyBay: design system"
+title: Design system
 date: 2025-03-27
 categories: ["Design system"]
-description: "For BuyBay I created a design system consisting of dozens of Figma components as well as an online manual. "
+description: "I created a design system consisting of Figma components as well as an online manual. "
 thumbnail: "/assets/images/gen/blog/blog-design-system-thumbnail.png"
+labels: ["buybay", "case study"]
 
 ---
 

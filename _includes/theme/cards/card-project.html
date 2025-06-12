@@ -1,4 +1,5 @@
 {% assign title = include.title %}
+{% assign labels = include.labels %}
 {% assign description = include.description %}
 {% assign thumbnail = include.thumbnail %}
 {% assign icon = include.icon %}
@@ -22,6 +23,9 @@
   {% endif %}
 
   <div class="card-content">
+    <div class="card-labels">
+      {{ labels | join: " • " }}
+    </div>
     <div class="card-title">
       <h2>
         <a href="{{ url | relative_url }}">{{ title }}</a>

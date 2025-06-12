@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BuyBay: grading software redesign"
+title: Grading software redesign
 date: 2025-03-31T09:49:03Z
 authors: ["Mike Vance"]
 categories: ["Visual design", "Illustration", "Front end development", "Ruby on Rails", "Usability testing"]
@@ -10,6 +10,7 @@ thumbnail: "/assets/images/gen/blog/blog-grading-redesign-thumbnail.png"
 image: "/assets/images/gen/content/blog-grading-redesign/visual-design/grade.png"
 comments: false
 subscribe: true
+labels: ["buybay", "case study"]
 ---
 
 # Introduction

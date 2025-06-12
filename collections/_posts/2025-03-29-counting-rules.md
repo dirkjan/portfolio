@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "BuyBay: predictable product routing"
+title: Predictable product routing
 date: 2025-03-29
 authors: ["Dirk-Jan Hoek"]
 categories: ["Wireframes", "Visual design", "Front end development", "Ruby on Rails"]
-description: Webshop returns are routed in the BuyBay warehouse based on rules. I enhanced this system for better predictability and adaptability.
+description: I made a system that routes products in a warehouse more predictable and adaptable.
 thumbnail: "/assets/images/gen/blog/blog-routing-thumbnail.png"
 image: "/assets/images/gen/content/blog-routing/visual-design/preview.png"
 weight: 1
+labels: ["buybay", "case study"]
 ---
 
 
