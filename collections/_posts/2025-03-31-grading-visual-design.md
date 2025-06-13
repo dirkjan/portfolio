@@ -10,7 +10,8 @@ thumbnail: "/assets/images/gen/blog/blog-grading-redesign-thumbnail.png"
 image: "/assets/images/gen/content/blog-grading-redesign/visual-design/grade.png"
 comments: false
 subscribe: true
-labels: ["buybay", "case study"]
+client: BuyBay
+type: case study
 ---
 
 # Introduction

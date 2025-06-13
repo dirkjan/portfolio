@@ -9,7 +9,7 @@
   }
 }
 
-.card-labels {
+.card-labels, .heading-labels {
   text-transform: uppercase;
   color: #AAA;
   margin-top: 4px;
@@ -63,4 +63,12 @@ img {
 
 figure.no-border img, img.no-border {
   border: 0;
+}
+
+.heading-labels {
+  font-size: 20px;
+}
+
+.heading-description {
+  margin: 2rem 0 4rem !important;
 }

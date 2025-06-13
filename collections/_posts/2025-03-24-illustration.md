@@ -7,7 +7,7 @@ description: "Illustrations, animations, icons, characters and comics."
 thumbnail: "/assets/images/gen/blog/blog-illustration-thumbnail.png"
 image: "/assets/images/gen/content/blog-illustration/buybay-comic/page1-row1.png"
 border: false
-labels: ["various clients"]
+client: various clients
 ---
 
 # BuyBay: icon libraries

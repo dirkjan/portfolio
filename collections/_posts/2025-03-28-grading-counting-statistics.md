@@ -8,7 +8,8 @@ description: Performance statistics with an innovative and productive layout.
 thumbnail: "/assets/images/gen/blog/blog-stats-thumbnail.png"
 image: "/assets/images/gen/content/blog-stats/team.png"
 comments: false
-labels: ["buybay", "case study"]
+client: BuyBay
+type: case study
 ---
 
 # Introduction

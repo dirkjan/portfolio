@@ -7,6 +7,8 @@ description: "Redesign of a task list to make it fun."
 thumbnail: "/assets/images/gen/blog/blog-mdl-thumbnail.png"
 image: "/assets/images/gen/content/blog-mdl/actions-visual-design.png"
 home: false
+client: MyDailyLifestyle
+type: case study
 ---
 
 # Introduction

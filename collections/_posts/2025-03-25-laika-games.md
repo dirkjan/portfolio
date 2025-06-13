@@ -6,7 +6,7 @@ categories: ["Games", "Concept development"]
 description: "Online casual games and puzzles."
 thumbnail: "/assets/images/gen/blog/blog-games-thumbnail.png"
 image: "/assets/images/gen/content/blog-games/police.png"
-labels: ["various clients"]
+client: various clients
 ---
 
 # Introduction

@@ -1,4 +1,5 @@
 {% assign title = include.title %}
+{% assign labels = include.client | split: ',' | push: include.type | compact %}
 {% assign description = include.description %}
 {% assign image = include.image %}
 {% assign icon = include.icon %}
@@ -13,6 +14,12 @@
   {% if badge %}
     <div class="heading-badge">
       <span>{{ badge }}</span>
+    </div>
+  {% endif %}
+
+  {% if labels %}
+    <div class="heading-labels">
+      {{ labels | join: " • " }}
     </div>
   {% endif %}
 

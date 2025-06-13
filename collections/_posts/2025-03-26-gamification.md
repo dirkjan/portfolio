@@ -6,7 +6,7 @@ categories: ["Gamification", "Concept development"]
 description: "Gamification and educational tools like simulations."
 thumbnail: "/assets/images/gen/blog/blog-mdl-thumbnail.png"
 image: "/assets/images/gen/content/blog-gamification/onderwijs.png"
-labels: ["various clients"]
+client: various clients
 ---
 
 # <a name="gamification-task-list"></a> Gamification: a task list that is fun

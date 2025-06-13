@@ -8,7 +8,8 @@ description: I made a system that routes products in a warehouse more predictabl
 thumbnail: "/assets/images/gen/blog/blog-routing-thumbnail.png"
 image: "/assets/images/gen/content/blog-routing/visual-design/preview.png"
 weight: 1
-labels: ["buybay", "case study"]
+client: BuyBay
+type: case study
 ---
 
 

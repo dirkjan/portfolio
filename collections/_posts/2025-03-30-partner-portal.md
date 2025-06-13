@@ -7,7 +7,8 @@ categories: ["Wireframes", "Ruby on Rails", "Front end development", "Wireframes
 description: User friendly website for webshops to announce returns to the BuyBay warehouse.
 thumbnail: "/assets/images/gen/blog/blog-partner-portal-thumbnail.png"
 image: "/assets/images/gen/content/blog-partner-portal/visual-design/home.png"
-labels: ["buybay", "case study"]
+client: BuyBay
+type: case study
 ---
 
 # Introduction
