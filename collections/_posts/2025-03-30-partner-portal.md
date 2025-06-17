@@ -12,7 +12,7 @@ type: case study
 ---
 
 # Introduction
-BuyBay specializes in taking returned products from webshops, assessing and improving them, and reselling them through online sales channels like eBay. The webshops (called ‘partners’ in this context) announce their products to BuyBay in advance, by uploading an excel sheet with a certain format. The existing software to do that had several usability problems, so I made a redesign.
+BuyBay specializes in taking returned products from webshops, assessing and improving them, and reselling them through online sales channels like eBay. The webshops (called ‘partners’ in this context) announce their products to BuyBay in advance, by uploading an Excel sheet with a certain format. The existing software to do that had several usability problems, so I made a redesign.
 
 ### My role
 - Interviews with webshop holders (together with the product owner)

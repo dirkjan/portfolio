@@ -29,11 +29,26 @@
 
 .card {
   margin-bottom: 12px;
-}
 
-img {
-  border: 3px solid #FFFAE4;
-  aspect-ratio: unset !important;
+  img {
+    border: 3px solid #FFFAE4;
+    aspect-ratio: unset !important;
+    &:hover { opacity: 1; }
+  }
+
+  &:hover {
+    box-shadow: 0 0 24px 24px #FFFAE4;
+    background-color: #FFFAE4;
+    cursor: pointer;
+
+    h2 {
+      text-decoration: underline;
+    }
+
+    img {
+      border: 3px solid #FFF1C0;
+    }
+  }
 }
 
 .grid-header.grid-header-align-left h2 {
