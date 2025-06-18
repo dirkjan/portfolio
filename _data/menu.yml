@@ -2,9 +2,12 @@ main:
   - name: Home
     url: /
     weight: 1
+  - name: Contact
+    url: /contact/
+    weight: 2
   - name: LinkedIn
     url: "https://www.linkedin.com/in/dhoek/"
-    weight: 2
+    weight: 3
 
 footer_primary:
   - name: "Project 1"

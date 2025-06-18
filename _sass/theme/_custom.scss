@@ -27,13 +27,13 @@
   line-height: 24px;
 }
 
-.card {
+.card-project  {
   margin-bottom: 12px;
 
-  img {
+  .card-thumbnail img {
     border: 3px solid #FFFAE4;
     aspect-ratio: unset !important;
-    &:hover { opacity: 1; }
+    &:hover { opacity: 1 }
   }
 
   &:hover {
@@ -45,7 +45,7 @@
       text-decoration: underline;
     }
 
-    img {
+    .card-thumbnail img {
       border: 3px solid #FFF1C0;
     }
   }
@@ -86,4 +86,9 @@ figure.no-border img, img.no-border {
 
 .heading-description {
   margin: 2rem 0 4rem !important;
+}
+
+label:has(+ input:required):after, label:has(+ textarea:required):after, {
+  content:"*";
+  margin-left: 2px;
 }
