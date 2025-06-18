@@ -4,7 +4,7 @@ title: Predictable product routing
 date: 2025-03-29
 authors: ["Dirk-Jan Hoek"]
 categories: ["Wireframes", "Visual design", "Front end development", "Ruby on Rails"]
-description: I made a system that routes products in a warehouse more predictable and adaptable.
+description: Routing products in a warehouse in a more predictable and adaptable way.
 thumbnail: "/assets/images/gen/blog/blog-routing-thumbnail.png"
 image: "/assets/images/gen/content/blog-routing/visual-design/preview.png"
 weight: 1
