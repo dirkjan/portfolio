@@ -8,6 +8,7 @@ main:
   - name: LinkedIn
     url: "https://www.linkedin.com/in/dhoek/"
     weight: 3
+    exit: true
 
 footer_primary:
   - name: "Project 1"

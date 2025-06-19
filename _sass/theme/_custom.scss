@@ -92,3 +92,10 @@ label:has(+ input:required):after, label:has(+ textarea:required):after, {
   content:"*";
   margin-left: 2px;
 }
+
+.menu-main .exit {
+  width: 16px;
+  height: 16px;
+  margin-left: 4px;
+  margin-bottom: 6px;
+}

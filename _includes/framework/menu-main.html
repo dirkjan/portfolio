@@ -39,7 +39,9 @@
           {% assign active = nil %}
         {% endif %}
         <li class="{% if item.url == page.url %}active{% endif %} {% if item.button %}menu-item-button{% endif %}">
-          <a href="{{ item.url | relative_url }}" {% if .item.external %}target="_blank" rel="noopener"{% endif %}>{{ item.name }}</a>
+          <a href="{{ item.url | relative_url }}" {% if .item.external %}target="_blank" rel="noopener"{% endif %}>
+            {{ item.name }}{% if item.exit %}<img src="/assets/images/icons/0767-exit-right.svg" class="exit" />{% endif %}
+          </a>
         </li>
       {% endif %}
     {% endfor %}
