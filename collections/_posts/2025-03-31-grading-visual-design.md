@@ -3,7 +3,7 @@ layout: post
 title: Grading software redesign
 date: 2025-03-31T09:49:03Z
 authors: ["Mike Vance"]
-categories: ["Visual design", "Illustration", "Front end development", "Ruby on Rails", "Usability testing"]
+categories: ["Visual design", "Illustration", "Front-end development", "Ruby on Rails", "Usability testing"]
 client: BuyBay
 description: Optimization to make use of larger screens and to improve touch operation.
 thumbnail: "/assets/images/gen/blog/blog-grading-redesign-thumbnail.png"

@@ -1,4 +1,4 @@
 ---
 layout: category
-title: Front end development
+title: Front-end development
 ---

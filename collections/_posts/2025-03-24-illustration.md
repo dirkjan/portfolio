@@ -2,7 +2,7 @@
 layout: post
 title: "Illustration and animation"
 date: 2025-03-25
-categories: []
+categories: ["Illustration"]
 description: "Illustrations, animations, icons, characters and comics."
 thumbnail: "/assets/images/gen/blog/blog-illustration-thumbnail.png"
 image: "/assets/images/gen/content/blog-illustration/buybay-comic/page1-row1.png"

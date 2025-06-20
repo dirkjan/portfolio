@@ -3,17 +3,18 @@ layout: default
 body_classes: page-post
 ---
 
+{% assign labels = page.client | split: ',' | push: page.type | compact %}
+
 <div class="section">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12">
         {% include framework/heading.html
           title=page.title
-          client=page.client
-          type=page.type
           description=page.description
           image=page.image
           border=page.border
+          labels=labels
         %}
       </div>
     </div>

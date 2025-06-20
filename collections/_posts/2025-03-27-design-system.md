@@ -2,7 +2,7 @@
 layout: post
 title: Design system
 date: 2025-03-27
-categories: ["Design system"]
+categories: []
 description: "I created a design system consisting of Figma components as well as an online manual. "
 thumbnail: "/assets/images/gen/blog/blog-design-system-thumbnail.png"
 client: BuyBay

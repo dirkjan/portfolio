@@ -9,14 +9,25 @@
   }
 }
 
+.card-labels {
+  font-size: 13px;
+}
+
+.heading-labels {
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+
 .card-labels, .heading-labels {
   text-transform: uppercase;
   color: #AAA;
-  margin-top: 4px;
-  margin-bottom: 8px;
-  font-size: 13px;
   font-weight: 500;
   letter-spacing: 10%;
+}
+
+.card-project .card-labels {
+  margin-top: 4px;
+  margin-bottom: 8px;
 }
 
 .card-title {
@@ -29,12 +40,6 @@
 
 .card-project  {
   margin-bottom: 12px;
-
-  .card-thumbnail img {
-    border: 3px solid #FFFAE4;
-    aspect-ratio: unset !important;
-    &:hover { opacity: 1 }
-  }
 
   &:hover {
     box-shadow: 0 0 24px 24px #FFFAE4;
@@ -49,6 +54,12 @@
       border: 3px solid #FFF1C0;
     }
   }
+}
+
+.card-thumbnail img {
+  border: 3px solid #FFFAE4;
+  aspect-ratio: unset !important;
+  &:hover { opacity: 1 !important }
 }
 
 .grid-header.grid-header-align-left h2 {
@@ -80,10 +91,6 @@ figure.no-border img, img.no-border {
   border: 0;
 }
 
-.heading-labels {
-  font-size: 20px;
-}
-
 .heading-description {
   margin: 2rem 0 4rem !important;
 }
@@ -98,4 +105,8 @@ label:has(+ input:required):after, label:has(+ textarea:required):after, {
   height: 16px;
   margin-left: 4px;
   margin-bottom: 6px;
+}
+
+.heading .heading-heading h1 {
+  width: 100%;
 }

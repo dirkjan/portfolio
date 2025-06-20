@@ -2,7 +2,7 @@
 layout: post
 title: "MyDailyLifestyle: task list gamification"
 date: 2025-03-26
-categories: ["Gamification", "Concept development", "Visual design"]
+categories: ["Concept development", "Visual design", "Wireframes"]
 description: "Redesign of a task list to make it fun."
 thumbnail: "/assets/images/gen/blog/blog-mdl-thumbnail.png"
 image: "/assets/images/gen/content/blog-mdl/actions-visual-design.png"

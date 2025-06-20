@@ -1,4 +1,4 @@
 ---
 layout: category
-title: Design system
+title: Games
 ---
