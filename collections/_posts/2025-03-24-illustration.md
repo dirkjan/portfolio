@@ -120,6 +120,17 @@ From 2000 to 2012, I co-owned a web design agency. For some of the clients, I cr
   title="Cultural host Piquizzo - one of five animations. <a id='pikwissoLink' style='display: inline;' href='javascript:showNext();'>Show next animation</a>"
 %}
 
+# <a name="smoking"></a> Promotion material for a course to stop smoking
+
+In 2017, DSM abolished smoking areas and offered employees a course to quit smoking through my then-employer [MyDailyLifestyle](http://www.mydailylifestyle.com). I was tasked with creating promotional material for this initiative. I came up with the idea of cigarette packs, which were to be distributed in the company's cafeterias. Since it appeared as though free cigarettes were available, the packs effectively caught people's attention. However, upon closer inspection, one could read a recommendation for the course.
+
+{% include framework/shortcodes/figures.html
+  path="/assets/images/gen/content/blog-illustration/roken"
+  files="roken-voor.jpg,roken-achter.jpg"
+  border="false"
+  title="Fake sigaret package to promote a course to quit smoking"
+%}
+
 # Logo for Laika.nl
 
 From 2000 to 2012, I was a co-owner of a web design and game development agency named [Laika](/blog/2025-03-25-laika-games). The name was inspired by the first animal in space. I designed the logo for the agency.
