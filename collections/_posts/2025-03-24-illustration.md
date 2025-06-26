@@ -3,7 +3,7 @@ layout: post
 title: "Illustration and animation"
 date: 2025-03-25
 categories: ["Illustration"]
-description: "Illustrations, animations, icons, characters and comics."
+description: "Illustrations, animations, icons, characters, graphic design and comics."
 thumbnail: "/assets/images/gen/blog/blog-illustration-thumbnail.png"
 image: "/assets/images/gen/content/blog-illustration/buybay-comic/page1-row1.png"
 border: false
@@ -128,7 +128,7 @@ In 2017, DSM abolished smoking areas and offered employees a course to quit smok
   path="/assets/images/gen/content/blog-illustration/roken"
   files="roken-voor.jpg,roken-achter.jpg"
   border="false"
-  title="Fake sigaret package to promote a course to quit smoking"
+  title="Fake cigarette package to promote a course to quit smoking"
 %}
 
 # Logo for Laika.nl
