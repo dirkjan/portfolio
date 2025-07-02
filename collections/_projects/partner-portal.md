@@ -5,8 +5,8 @@ date: 2025-03-30
 authors: ["Mike Vance"]
 categories: ["Wireframes", "Ruby on Rails", "Front-end development", "Wireframes", "Visual design"]
 description: User friendly website for webshops to announce returns to the BuyBay warehouse.
-thumbnail: "/assets/images/gen/blog/blog-partner-portal-thumbnail.png"
-image: "/assets/images/gen/content/blog-partner-portal/visual-design/home.png"
+thumbnail: "/assets/images/gen/projects/project-partner-portal-thumbnail.png"
+image: "/assets/images/gen/content/project-partner-portal/visual-design/home.png"
 client: BuyBay
 type: case study
 ---
@@ -36,34 +36,34 @@ I made a redesign where the user receives immediate feedback after upload. It is
 
 Here are a the most important screenshots from the wireframes:
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-partner-portal/wireframes/flowchart.png" title="Flowchart" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-partner-portal/wireframes/flowchart.png" title="Flowchart" %}
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-partner-portal/wireframes/announce1.png" title="Announce a batch of returns - step 1" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-partner-portal/wireframes/announce1.png" title="Announce a batch of returns - step 1" %}
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-partner-portal/wireframes/announce-uploading.png" title="Announce a batch of returns - feedback" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-partner-portal/wireframes/announce-uploading.png" title="Announce a batch of returns - feedback" %}
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-partner-portal/wireframes/announce2.png" title="Announce a batch of returns - errors found in the Excel file" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-partner-portal/wireframes/announce2.png" title="Announce a batch of returns - errors found in the Excel file" %}
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-partner-portal/wireframes/announce-validating.png" title="Announce a batch of returns - validating the fixes of the errors" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-partner-portal/wireframes/announce-validating.png" title="Announce a batch of returns - validating the fixes of the errors" %}
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-partner-portal/wireframes/announce-feedback.png" title="Announce a batch of returns - success message" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-partner-portal/wireframes/announce-feedback.png" title="Announce a batch of returns - success message" %}
 
-[Read the full wireframes](/assets/images/gen/content/blog-partner-portal/wireframes/wireframes.pdf)
+[Read the full wireframes](/assets/images/gen/content/project-partner-portal/wireframes/wireframes.pdf)
 
 # Visual design
 When the wireframe design was accepted, I created the visuals:
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-partner-portal/visual-design/announce1.png" title="Announce a batch of returns - step 1" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-partner-portal/visual-design/announce1.png" title="Announce a batch of returns - step 1" %}
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-partner-portal/visual-design/announce-validating.png" title="Announce a batch of returns  - feedback" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-partner-portal/visual-design/announce-validating.png" title="Announce a batch of returns  - feedback" %}
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-partner-portal/visual-design/item-errors.png" title="Announce a batch of returns - errors found in the Excel file" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-partner-portal/visual-design/item-errors.png" title="Announce a batch of returns - errors found in the Excel file" %}
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-partner-portal/visual-design/item-errors-fixing.png" title="Announce a batch of returns - validating the fixes of the errors" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-partner-portal/visual-design/item-errors-fixing.png" title="Announce a batch of returns - validating the fixes of the errors" %}
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-partner-portal/visual-design/creating-announcement.png" title="Announce a batch of returns - feedback" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-partner-portal/visual-design/creating-announcement.png" title="Announce a batch of returns - feedback" %}
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-partner-portal/visual-design/announcement-done.png" title="Announcement complete" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-partner-portal/visual-design/announcement-done.png" title="Announcement complete" %}
 
 
 # Implementation
@@ -72,13 +72,13 @@ I created a proof of concept in React to see if it was possible to do the valida
 # Later improvements
 Later improvements include statistics, a homepage that offers the latest updates and a calendar and a list view where you can see your own announcements.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-partner-portal/visual-design/home.png" title="Homepage with statistics" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-partner-portal/visual-design/home.png" title="Homepage with statistics" %}
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-partner-portal/visual-design/deliveries.png" title="Deliveries consisting of multiple themed 'batches'" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-partner-portal/visual-design/deliveries.png" title="Deliveries consisting of multiple themed 'batches'" %}
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-partner-portal/visual-design/calendar.png" title="Calender view of the deliveries" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-partner-portal/visual-design/calendar.png" title="Calender view of the deliveries" %}
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-partner-portal/visual-design/items.png" title="Overview of all items exported to BuyBay" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-partner-portal/visual-design/items.png" title="Overview of all items exported to BuyBay" %}
 
 
 

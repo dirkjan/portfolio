@@ -5,8 +5,8 @@ date: 2025-04-01T16:49:03Z
 authors: ["Dirk-Jan Hoek"]
 categories: ["Concept development", "Games"]
 description: "'Vitamine P', a puzzle and brain training website with a super simple user interface."
-image: "/assets/images/gen/content/blog-vitamine/home.gif"
-thumbnail: "/assets/images/gen/blog/blog-vitamine-thumbnail.png"
+image: "/assets/images/gen/content/project-vitamine/home.gif"
+thumbnail: "/assets/images/gen/projects/project-vitamine-thumbnail.png"
 home: false
 client: Own project
 ---
@@ -29,7 +29,7 @@ We sold Vitamine P to Keesing, part of De Telegraaf, the largest Dutch newspaper
 Each puzzle can be played on 5 levels. A higher level often means a larger playfield. Here is an example:
 
 {% include framework/shortcodes/figures.html
-  path="/assets/images/gen/content/blog-vitamine/levels"
+  path="/assets/images/gen/content/project-vitamine/levels"
   files="level1.png,level2.png,level3.png,level4.png,level5.png"
   background_color="#D3EFCB"
   title="Five different levels"
@@ -40,19 +40,19 @@ Tweaking the right difficulty took us a lot of time and effort.
 
 # Puzzles in the category 'Logic'
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-vitamine/logic/oplichter.png" title="Illuminator" border="false" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-vitamine/logic/oplichter.png" title="Illuminator" border="false" %}
 
 Place one or more lamps next to each red square. The number of lamps is specified inside the red square. Each lamp broadcasts light horizontally and vertically. When you are done, all the grey squares should be illuminated. [Watch a video](https://www.youtube.com/watch?v=yz0bn8i5-Fs)
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-vitamine/logic/sla-je-slag.png" title="Make your move" border="false"  %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-vitamine/logic/sla-je-slag.png" title="Make your move" border="false"  %}
 
 Capture stones like in checkers until only one remains. [Watch a video](https://www.youtube.com/watch?v=WKwrKQ-TdYs)
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-vitamine/logic/wisseltruc.png" title="Swap trick" border="false" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-vitamine/logic/wisseltruc.png" title="Swap trick" border="false" %}
 
 **Conceived by me.** Each stone can be swapped with its horizontal or vertical neighbor. You may make a limited number of swaps. When you are done, each stone must have at least one horizontal or vertical neighbor of the same color. [Watch a video](https://www.youtube.com/watch?v=C43cD79XUeQ&pp=0gcJCY0JAYcqIYzv)
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-vitamine/logic/zoek-groep.png" title="Find the group" border="false" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-vitamine/logic/zoek-groep.png" title="Find the group" border="false" %}
 
 **Conceived by me.** Each stone has three properties: shape, color, and filling. A correct group meets the following two requirements:
 
@@ -63,57 +63,57 @@ Find all groups. [Watch a video](https://www.youtube.com/watch?v=qHzZZek8TCY)
 
 # Puzzles in the category 'Spatial'
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-vitamine/spatial/doorschuiver.png" title="Slider" border="false" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-vitamine/spatial/doorschuiver.png" title="Slider" border="false" %}
 
 **Conceived by me.** A sliding puzzle with a twist. With an arrow key, you shift an entire row or column. If a photo box slides out of view, it reappears on the opposite side.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-vitamine/spatial/parkeerbeheer.png" title="Parking management" border="false"  %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-vitamine/spatial/parkeerbeheer.png" title="Parking management" border="false"  %}
 
 Move all cars in their driving direction, forward or backward, until the orange car reaches the exit. [Watch a video](https://www.youtube.com/watch?v=OS76xFTVv_A)
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-vitamine/spatial/vakkenleger.png" title="Shelf clearer" border="false" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-vitamine/spatial/vakkenleger.png" title="Shelf clearer" border="false" %}
 
 **Conceived by me.** Click on groups of blocks of the same color. They disappear, and the blocks above fall down into the created gap. Clear the entire field this way. [Watch a video](https://www.youtube.com/watch?v=SoPbrl2IC-Y)
 
 # Puzzles in the category 'Memory'
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-vitamine/memory/poortwachter.png" title="Gate keeper" border="false" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-vitamine/memory/poortwachter.png" title="Gate keeper" border="false" %}
 
 **Conceived by me.** Make sure to let the right people into the castle. Don't let too many of the same type in. [Watch a video](https://www.youtube.com/watch?v=JGb0BKh_a5E)
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-vitamine/memory/zoek-dader.png" title="Find the culprit" border="false" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-vitamine/memory/zoek-dader.png" title="Find the culprit" border="false" %}
 
 **Conceived by me.** You get to see a face for a short time. After that, you must identify this person in a 'line-up'. [Watch a video](https://www.youtube.com/watch?v=Pnj32l3Fl5g)
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-vitamine/memory/cijferbrij.png" title="Number mash" border="false" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-vitamine/memory/cijferbrij.png" title="Number mash" border="false" %}
 
 **Conceived by me.** A series of numbers are shown in different places one after the other. Remember the numbers and their locations. [Watch a video](https://www.youtube.com/watch?v=z7OEO6X2aaM)
 
 # Puzzles in the category 'Language'
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-vitamine/language/woordslang.png" title="Word snake" border="false" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-vitamine/language/woordslang.png" title="Word snake" border="false" %}
 
 Find words in a grid of letters. [Watch a video](https://www.youtube.com/watch?v=CvO3_ozf1vg)
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-vitamine/language/lettertetris.png" title="Letter tetris" border="false" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-vitamine/language/lettertetris.png" title="Letter tetris" border="false" %}
 
 **Conceived by me.** Letters fall down, stacking up. Just like in Tetris, you can move them left and right during their fall. If you form a word (of at least three letters) horizontally or vertically, the letters of the word disappear, giving you some breathing room! [Watch a video](https://www.youtube.com/watch?v=bLiQzoEqvCg)
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-vitamine/language/woordmaker.png" title="Word maker" border="false" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-vitamine/language/woordmaker.png" title="Word maker" border="false" %}
 
 **Conceived by me.** Create as many words as possible from a given set of letters. [Watch a video](https://www.youtube.com/watch?v=oenTkjDdJwU)
 
 # Puzzles in the category 'Math'
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-vitamine/math/groter-kleiner.png" title="Larger smaller" border="false" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-vitamine/math/groter-kleiner.png" title="Larger smaller" border="false" %}
 
 Place the numbers 1 to 3 (or 4 or 5, depending on the size of the playfield) in each row. Ensure that the comparisons with '<' and '>' are correct. [Watch a video](https://www.youtube.com/watch?v=TGpnN_u-Puw)
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-vitamine/math/opteller.png" title="Adder" border="false" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-vitamine/math/opteller.png" title="Adder" border="false" %}
 
 **Conceived by me.** Cross out all numbers that form a certain sum. The numbers must be adjacent to each other, either horizontally or vertically. [Watch a video](https://www.youtube.com/watch?v=grOOauOFagM)
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-vitamine/math/kassabon.png" title="Receipt" border="false" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-vitamine/math/kassabon.png" title="Receipt" border="false" %}
 
 **Conceived by me.** Adjust the quantities of the groceries until the total price on the receipt is correct. [Watch a video](https://www.youtube.com/watch?v=tmSGhembttY)
 

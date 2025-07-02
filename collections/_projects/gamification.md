@@ -4,8 +4,8 @@ title: "Gamification and educational tools"
 date: 2025-03-26
 categories: ["Games", "Concept development"]
 description: "Gamification and educational tools like simulations."
-thumbnail: "/assets/images/gen/blog/blog-mdl-thumbnail.png"
-image: "/assets/images/gen/content/blog-gamification/onderwijs.png"
+thumbnail: "/assets/images/gen/projects/project-mdl-thumbnail.png"
+image: "/assets/images/gen/content/project-gamification/onderwijs.png"
 client: various clients
 ---
 
@@ -15,7 +15,7 @@ From 2012 to 2019, I worked at [MyDailyLifestyle](http://www.mydailylifestyle.co
 
 The employees follow a program lasting several weeks and receive new tasks each week. To motivate them to complete the tasks, I designed an unconventional task list for the mobile app:
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-mdl/actions-visual-design.png" title="MyDailyLifestyle task list" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-mdl/actions-visual-design.png" title="MyDailyLifestyle task list" %}
 
 Above, you see the program tasks for the participant for the current week. Each task is a square block that covers a photo in the background. When the user has completed a task, the corresponding block disappears from the task overview page. This reveals another part of the photo. In this way, the user is encouraged to clear all blocks by completing all tasks. When a new week begins, new tasks and a new background photo appear.
 
@@ -36,22 +36,22 @@ From 2000 to 2012, I co-owned a web design and game development agency called La
 ### Drag and drop editor
 The children were given a canvas on which they could draw, type, and place photos, videos, and animations. Everything could be distributed across the canvas using drag and drop. At that time, something like this was unique.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-gamification/sos-jaguar/editor.png" title="Demo of the blog editor, a kind of Miro avant la lettre" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-gamification/sos-jaguar/editor.png" title="Demo of the blog editor, a kind of Miro avant la lettre" %}
 
 For children who had trouble finding materials themselves, there was an extensive library with text fragments, pictures, animations, videos, photo frames, and donation links:
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-gamification/sos-jaguar/mediabieb.gif" title="SOS jaguar media library" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-gamification/sos-jaguar/mediabieb.gif" title="SOS jaguar media library" %}
 
 ### Voting buttons
 To motivate the children to continue working on their jaguar blog, they could earn votes from other children. They could also promote their project to friends and family.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-gamification/sos-jaguar/punten.gif" title="Voting and promotion" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-gamification/sos-jaguar/punten.gif" title="Voting and promotion" %}
 
 ### Examples of results
 Click on an image to enlarge it.
 
 {% include framework/shortcodes/figures.html
-  path="/assets/images/gen/content/blog-gamification/sos-jaguar"
+  path="/assets/images/gen/content/project-gamification/sos-jaguar"
   link="true"
   files="1.jpg,6.jpg|9.jpg,11.jpg"
   title = "SOS jaguar blog examples - click on an image to enlarge"
@@ -95,12 +95,12 @@ The sliders determine how the government budget is spent. When you move a slider
 
 ### Simulation on environment
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-gamification/milieu.png" title="Simulation on the environment" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-gamification/milieu.png" title="Simulation on the environment" %}
 
 In this simulation, you have to balance spending on forestry, TFMSS (forestry efficiency), alternative energy, and poacher police.
 
 ### Simulation on AIDS prevention
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-gamification/aids.png" title="Simulation on AIDS prevention" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-gamification/aids.png" title="Simulation on AIDS prevention" %}
 
 In this simulation, you have to balance spending on free contraceptives, testing clinics, AIDS inhibitors, and counseling offices. If you don't do this well, you lose the working population and thus tax revenues. This way, you end up in a negative spiral.

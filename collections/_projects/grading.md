@@ -5,8 +5,8 @@ date: 2025-04-01T16:49:03Z
 authors: ["Dirk-Jan Hoek"]
 categories: ["Concept development", "Ruby on Rails", "Usability testing"]
 description: SaaS software to assess webshop returns, from analysis to user tests and implementation.
-thumbnail: "/assets/images/gen/blog/blog-grading-thumbnail.png"
-image: "/assets/images/gen/content/blog-grading/visual-design/grading-step.png"
+thumbnail: "/assets/images/gen/projects/project-grading-thumbnail.png"
+image: "/assets/images/gen/content/project-grading/visual-design/grading-step.png"
 client: "BuyBay"
 client: BuyBay
 type: case study
@@ -37,7 +37,7 @@ The old software ran on touchscreen desktops on the grader’s tables. The proce
 1. He gives a rating from A to E (see screenshot below)
 1. He motivates his choice
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-grading/old/12gradepage.png" title="Old software: the grader should enter a rating here" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-grading/old/12gradepage.png" title="Old software: the grader should enter a rating here" %}
 
 ### Interviews, personas, customer journeys
 
@@ -63,7 +63,7 @@ To come up with design solutions we formulated ‘how might we’ questions:
 
 We brainstormed with the entire team to generate ideas:
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-grading/brainstorm.png" title="One of the brainstorm results" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-grading/brainstorm.png" title="One of the brainstorm results" %}
 
 After the brainstorm, four team members each sketched a concept for the UI. I came up with a workflow-based system; the grader would answer a number of sequential questions, each question depending on the product category and previous answers. The system would then decide on the rating by itself.
 
@@ -72,7 +72,7 @@ The software would run on a mobile device, which the grader could also use to sc
 Some of my sketches:
 
 {% include framework/shortcodes/figures.html
-  path="/assets/images/gen/content/blog-grading/concept"
+  path="/assets/images/gen/content/project-grading/concept"
   files="step1.png,step2.png,step3.png|step4.png,step5.png,step6.png|step7.png,step8.png,null"
 %}
 
@@ -81,7 +81,7 @@ Some of my sketches:
 My workflow-concept was selected for further development and I created a clickable prototype in Adobe XD. A few screens of the prototype:
 
 {% include framework/shortcodes/figures.html
-  path="/assets/images/gen/content/blog-grading/prototype"
+  path="/assets/images/gen/content/project-grading/prototype"
   files="step1.png,step2.png,step3.png"
 %}
 
@@ -96,14 +96,14 @@ We tested with four different users and three different products, a Nespresso ma
 After the design sprint I created a visual design. It was designed to be responsive, accommodating both large and small screens, because the company was not sure yet whether it wanted to replace the desktops with phones.
 
 
-{% include framework/shortcodes/figure.html width="40%" src="/assets/images/gen/content/blog-grading/visual-design/mobile.png" title="Mobile screen" %}
+{% include framework/shortcodes/figure.html width="40%" src="/assets/images/gen/content/project-grading/visual-design/mobile.png" title="Mobile screen" %}
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-grading/visual-design/grading-step.png" title="Desktop screen" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-grading/visual-design/grading-step.png" title="Desktop screen" %}
 
 # Implementation
 With other developers I created the new SaaS-software in Ruby on Rails. We built the grading system on top of dedicated workflow software so that we would be able to manage all the different products and contexts. To give you an idea, here is a part of a grading workflow:
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/blog-grading/workflow.png" title="Camunda grading workflow" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/project-grading/workflow.png" title="Camunda grading workflow" %}
 
 # Result
 
