@@ -25,35 +25,43 @@
   letter-spacing: 10%;
 }
 
-.card-project .card-labels {
-  margin-top: 4px;
-  margin-bottom: 8px;
+.page-home {
+  .card-project .card-labels {
+    margin-top: 4px;
+    margin-bottom: 8px;
+  }
+
+  .card-project {
+    margin-bottom: 12px;
+
+    &:hover {
+      box-shadow: 0 0 24px 24px #FFFAE4;
+      background-color: #FFFAE4;
+      cursor: pointer;
+
+      h2 {
+        text-decoration: underline;
+      }
+
+      .card-thumbnail img {
+        border: 3px solid #FFF1C0;
+      }
+    }
+  }
+  .card-title h2 {
+    margin-bottom: 0;
+  }
 }
 
 .card-title {
+  h2 {
+    font-size: 20px !important;
+  }
   margin-bottom: 2px;
 }
 
 .card-description {
   line-height: 24px;
-}
-
-.card-project  {
-  margin-bottom: 12px;
-
-  &:hover {
-    box-shadow: 0 0 24px 24px #FFFAE4;
-    background-color: #FFFAE4;
-    cursor: pointer;
-
-    h2 {
-      text-decoration: underline;
-    }
-
-    .card-thumbnail img {
-      border: 3px solid #FFF1C0;
-    }
-  }
 }
 
 .card-thumbnail img {
@@ -115,4 +123,55 @@ label:has(+ input:required):after, label:has(+ textarea:required):after, {
 
 .heading .heading-heading h1 {
   width: 100%;
+}
+
+.page-category {
+  .card-project.card-list {
+    border-radius: 0;
+    box-shadow: none;
+    @include media-breakpoint-up(md) {
+      flex-direction: row;
+    }
+    .card-thumbnail {
+      padding: 0;
+      margin-bottom: 10px;
+      margin-right: 16px;
+      margin-bottom: 0;
+      height: 60px;
+      width: 80px;
+      img {
+        object-fit: cover;
+      }
+    }
+    .card-meta {
+      margin-bottom: 2px;
+    }
+    .card-title {
+      margin-bottom: 4px;
+      font-weight: 600;
+      h3 {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.3;
+        margin: 0;
+      }
+      a {
+        color: var(--color-base-text);
+      }
+    }
+    .card-content {
+      @include media-breakpoint-up(md) {
+        padding: 0;
+      }
+    }
+    .card-authors {
+      display: none;
+    }
+    .card-description {
+      display: none;
+    }
+    .card-categories {
+      display: none;
+    }
+  }
 }
