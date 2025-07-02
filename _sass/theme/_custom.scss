@@ -100,11 +100,17 @@ label:has(+ input:required):after, label:has(+ textarea:required):after, {
   margin-left: 2px;
 }
 
-.menu-main .exit {
-  width: 16px;
-  height: 16px;
-  margin-left: 4px;
-  margin-bottom: 6px;
+.menu-main {
+  .exit {
+    width: 16px;
+    height: 16px;
+    margin-left: 4px;
+    margin-bottom: 6px;
+  }
+
+  ul li > a {
+    text-transform: inherit;
+  }
 }
 
 .heading .heading-heading h1 {

@@ -1,46 +1,31 @@
 ---
 layout: basic
-title: "About Us"
+title: "About me"
 date: 2018-11-28T15:15:34+10:00
 permalink: "/about/"
-description: "Business plan hackathon handshake responsive web design."
-image: "/assets/images/gen/content/content-5.webp"
+
 ---
 
-# Creating Modern Websites
+As a child, I was fascinated by three things: Lego, drawing (comics), and computers. Unfortunately, we didn't have a computer at home. So, I built one out of Lego in the form of a screen where a roll of paper was transported across it by a small electric motor. This way, you could see scrolling text or pictures.
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+On one sheet of paper, I had drawn a race track from a top-down view, complete with other cars. At the bottom of the screen was a Lego brick. It represented your race car. You could move it horizontally with a steering wheel to avoid other cars on the screen. Unfortunately, collision detection was missing, so you had to be careful not to hit anything yourself.
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+Years later, with the money I earned from a paper route, I bought a real computer, an MSX. I learned to program in BASIC (a simple programming language). I particularly enjoyed programming graphical things. Still, after high school, I didn't study computer science but Industrial Design. Computer science seemed like something for nerds. In Industrial Design, you could draw a lot.
 
-## What is Web Design?
+My love for computers had not disappeared. I upgraded from delivering newspapers to delivering mail and replaced the MSX with a Commodore Amiga. While my fellow students made technical drawings of their designs by hand, I chose AutoCad on one of the six workstations the university made available for this purpose. I had to get up at six in the morning; otherwise, they were all occupied.
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}
+{% include framework/shortcodes/figures.html
+  path="/assets/images/gen/content/about"
+  files="lego013.jpg,signing.jpg"
+  border="false"
+  title="Left: playing with Lego. Right: signing a comic book."
+%}
 
-## Front-end Development
+I got to know the field of ergonomics, adapting products to the physical and cognitive limitations of humans. One of the ergonomics assignments involved making a video recorder remote control more user-friendly (yes, it was some time ago). I based my redesign on a rotatable wheel; it was somewhat reminiscent of the first Apple iPod. To test it with users, I made a prototype from Lego and my Amiga computer.
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
+I took many elective courses in the ergonomics department and graduated with a course to retrain print designers as interaction designers. This was during the time of the CD-ROM; the internet was not significant yet. But three years later, I had my own internet agency with two other designers.
 
-> As a UX designer, you should consider the Why, What and How of product use.
+We were missing a programmer in the company. BASIC didn't get me far, so I quickly learned ASP (a server programming language from Microsoft), HTML, CSS, and JavaScript (code executed in your browser). I discovered how fun it was to be a nerd. Creating games in Flash ActionScript fascinated me. Collision detection was built into Flash, so colliding race cars were no longer a problem.
 
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
-
-## Design Systems
-
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
-
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
-
-## Process
-
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
-
-- User experience research
-- Visual design and illustration
-- Programming and coding
-
-![Design In Figma]({{ "/assets/images/gen/content/content-2.webp" | relative_url }})
-
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+After my own company, I felt it was time to realize another dream. I created a comic book published by De Bezige Bij. After that, I became an employee as a UX designer and developer. So, I'm still building, just not with Lego anymore but with software.
