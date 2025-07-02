@@ -44,7 +44,7 @@ Options in the BuyBay grading workflows have large buttons, so that they are eas
   background_color="#D3EFCB"
 %}
 
-The icons are easily recognizable as a family, because they share the same perspective. [Read more on the context of these icons](/blog/2025-03-31-grading-visual-design/)
+The icons are easily recognizable as a family, because they share the same perspective. [Read more on the context of these icons](/projects/grading-visual-design/)
 
 # BuyBay: functional animations
 
@@ -133,7 +133,7 @@ In 2017, DSM abolished smoking areas and offered employees a course to quit smok
 
 # Logo for Laika.nl
 
-From 2000 to 2012, I was a co-owner of a web design and game development agency named [Laika](/blog/2025-03-25-laika-games). The name was inspired by the first animal in space. I designed the logo for the agency.
+From 2000 to 2012, I was a co-owner of a web design and game development agency named [Laika](/projects/laika-games). The name was inspired by the first animal in space. I designed the logo for the agency.
 
 {% include framework/shortcodes/figures.html
   path="/assets/images/gen/content/blog-illustration"

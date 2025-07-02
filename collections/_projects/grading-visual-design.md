@@ -18,7 +18,7 @@ type: case study
 
 BuyBay specializes in taking returned products from webshops, assessing and improving them, and reselling them through online sales channels like eBay. To streamline the assessment process, BuyBay developed flexible 'grading' software as a SaaS solution, which they also utilize internally.
 
-The [first version of this software](http://localhost:4000/blog/2025-04-01-grading/) was primarily designed with mobile phones in mind. However, BuyBay ultimately opted to use Full HD desktop touchscreens, which they already had, and the mobile version was seldom utilized.
+The [first version of this software](/projects/grading/) was primarily designed with mobile phones in mind. However, BuyBay ultimately opted to use Full HD desktop touchscreens, which they already had, and the mobile version was seldom utilized.
 
 While the desktop layout was functional, it was not optimized for the larger screen, resulting in valuable screen real estate being left unused. Additionally, many clickable areas were relatively small, making them difficult to interact with. Recognizing this opportunity for improvement, I created a new design aimed at enhancing the user experience.
 
