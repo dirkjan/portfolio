@@ -8,7 +8,7 @@ permalink: "/about/"
 
 As a child, I was fascinated by three things: Lego, drawing (comics), and computers. Unfortunately, we didn't have a computer at home. So, I built one out of Lego in the form of a screen where a roll of paper was transported across it by a small electric motor. This way, you could see scrolling text or pictures.
 
-On one sheet of paper, I had drawn a race track from a top-down view, complete with other cars. At the bottom of the screen was a Lego brick. It represented your race car. You could move it horizontally with a steering wheel to avoid other cars on the screen. Unfortunately, collision detection was missing, so you had to be careful not to hit anything yourself.
+On one sheet of paper, I had drawn a race track from a top-down view, complete with other cars. At the bottom of the screen was a Lego brick. It represented your race car. You could move it horizontally with a steering wheel to avoid other cars on the screen. Unfortunately, collision detection was missing, so you had to check yourself whether you hit anything.
 
 Years later, with the money I earned from a paper route, I bought a real computer, an MSX. I learned to program in BASIC (a simple programming language). I particularly enjoyed programming graphical things. Still, after high school, I didn't study computer science but Industrial Design. Computer science seemed like something for nerds. In Industrial Design, you could draw a lot.
 

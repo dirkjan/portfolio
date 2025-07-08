@@ -125,6 +125,7 @@ label:has(+ input:required):after, label:has(+ textarea:required):after, {
   width: 100%;
 }
 
+/* Projects had no card list layout, so I copied .page-category .blog-category.card-list here */
 .page-category {
   .card-project.card-list {
     border-radius: 0;

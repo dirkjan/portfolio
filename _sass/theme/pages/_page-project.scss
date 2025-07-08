@@ -1,3 +1,5 @@
+/* I copied the full contents of _page-post.scss here, because I like that layout better */
+
 .page-project {
   .project-heading {
     h1 {
@@ -62,7 +64,7 @@
     @include media-breakpoint-up(md) {
       grid-auto-rows: 400px;
     }
-    
+
     .gallery-item {
       overflow: hidden;
     }

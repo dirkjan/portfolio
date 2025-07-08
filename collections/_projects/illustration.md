@@ -16,7 +16,7 @@ BuyBay specializes in taking returned products from webshops, assessing and impr
 
 ### Regular icons
 
-The BuyBay grading software uses the [Lineair icon library](https://linearicons.com) for icons on regular buttons. This library contains 1000 icon images, but that was not enough for all purposes so I had to create several new icons in the same style. Here are some samples. The blue icons are examples from the Lineair icon library, the green icons are my designs.
+The BuyBay grading software uses the [Lineair icon library](https://linearicons.com) for icons on regular buttons. This library contains 1,000 icon images, but that was not enough for all purposes so I had to create several new icons in the same style. Here are some samples. The blue icons are examples from the Lineair icon library, the green icons are my designs.
 
 {% include framework/shortcodes/figures.html
   path="/assets/images/gen/content/project-illustration/icons/lnr"
