@@ -64,7 +64,7 @@ In the Soccer game, you have to kick a ball through a hole by hitting it at the 
 
 We later extended this game to a ‘Free Kick’ version for a commercial game site.
 
-{% include framework/shortcodes/video.html src="https://www.youtube.com/embed/hDXaNI-PpvY?si=vqooXI7ECHOwSYsQ" aspect_ratio="70%" %}
+{% include framework/shortcodes/video.html src="https://vimeo.com/1181152934?share=copy&fl=sv&fe=ci" aspect_ratio="70%" %}
 
 The user first aims by moving a 3D arrow around with the mouse or a touchpad. In the second step, he/she/they can determine the speed. The speed intermittently increases and decreases, and when you click the mouse, the current speed is applied. To achieve the right speed, you must time your click well. Finally, you can add an effect (spin) to the ball by quickly moving the mouse left, right, up, or down. This will help you curve the ball around or over the wall of players.
 
@@ -80,7 +80,7 @@ The episode on the police featured a chase. While the gameplay is not particular
 
 I created this game for fun. It features unique gameplay. You must move marbles through a maze to get them to a new position. The maze becomes more complex with each level. You cannot control the marbles directly, but you can tilt the maze to the left or right, which sets the marbles in motion.
 
-{% include framework/shortcodes/video.html src="https://www.youtube.com/embed/koLAGgCKOn4?si=RrJyM913T0NTd5h6" aspect_ratio="105%" %}
+{% include framework/shortcodes/video.html src="https://vimeo.com/1181153105?share=copy&fl=sv&fe=ci" aspect_ratio="105%" %}
 
 # Municipality of Utrecht: Bus game
 
